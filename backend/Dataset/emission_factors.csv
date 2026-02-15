@@ -1,0 +1,48 @@
+stage,type,factor,unit,source_note
+material,cotton,2.1,kg CO2e per kg material,starter_proxy_for_hackathon
+material,organic_cotton,1.6,kg CO2e per kg material,starter_proxy_for_hackathon
+material,polyester,5.5,kg CO2e per kg material,starter_proxy_for_hackathon
+material,recycled_polyester,3.0,kg CO2e per kg material,starter_proxy_for_hackathon
+material,leather,15.0,kg CO2e per kg material,starter_proxy_for_hackathon
+material,rubber,3.3,kg CO2e per kg material,starter_proxy_for_hackathon
+material,aluminum,11.5,kg CO2e per kg material,starter_proxy_for_hackathon
+material,recycled_aluminum,5.0,kg CO2e per kg material,starter_proxy_for_hackathon
+material,glass,1.2,kg CO2e per kg material,starter_proxy_for_hackathon
+material,paper,1.0,kg CO2e per kg material,starter_proxy_for_hackathon
+material,recycled_paper,0.6,kg CO2e per kg material,starter_proxy_for_hackathon
+material,plastic_pet,2.7,kg CO2e per kg material,starter_proxy_for_hackathon
+material,recycled_plastic_pet,1.7,kg CO2e per kg material,starter_proxy_for_hackathon
+material,steel,2.3,kg CO2e per kg material,starter_proxy_for_hackathon
+material,recycled_steel,1.3,kg CO2e per kg material,starter_proxy_for_hackathon
+material,lithium_ion_battery,12.0,kg CO2e per kg material,starter_proxy_for_hackathon
+material,silicon_chip,45.0,kg CO2e per kg material (proxy),starter_proxy_for_hackathon
+material,electronics_mix,18.0,kg CO2e per kg material (proxy),option1_extension
+material,silicon_mix,28.0,kg CO2e per kg material (proxy),option1_extension
+material,lithium_mix,14.0,kg CO2e per kg material (proxy),option1_extension
+material,nickel,9.0,kg CO2e per kg material,option1_extension
+material,cobalt,16.0,kg CO2e per kg material,option1_extension
+material,copper,4.0,kg CO2e per kg material,option1_extension
+material,industrial_steel,2.8,kg CO2e per kg material,option1_extension
+material,aluminum_structural,9.5,kg CO2e per kg material,option1_extension
+material,composite,6.5,kg CO2e per kg material,option1_extension
+packaging,none,0.0,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,plastic_wrap,0.18,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,cardboard_box,0.25,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,recycled_cardboard_box,0.16,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,glass_bottle,0.45,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,aluminum_can,0.12,kg CO2e per unit,starter_proxy_for_hackathon
+packaging,reusable_pack,0.35,kg CO2e per unit (amortized),starter_proxy_for_hackathon
+transport,air,1.2,kg CO2e per ton-km,starter_proxy_for_hackathon
+transport,ship,0.015,kg CO2e per ton-km,starter_proxy_for_hackathon
+transport,rail,0.03,kg CO2e per ton-km,starter_proxy_for_hackathon
+transport,truck,0.12,kg CO2e per ton-km,starter_proxy_for_hackathon
+manufacturing,china,2.2,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,vietnam,1.9,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,india,2.0,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,bangladesh,1.8,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,mexico,1.4,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,usa,1.2,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,germany,1.0,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,turkey,1.5,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,taiwan,1.6,kg CO2e per unit,starter_proxy_for_hackathon
+manufacturing,south_korea,1.3,kg CO2e per unit,starter_proxy_for_hackathon

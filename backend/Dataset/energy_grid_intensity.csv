@@ -1,0 +1,11 @@
+metric,region,value,unit,source_note
+grid_intensity,china,0.62,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,vietnam,0.55,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,india,0.7,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,bangladesh,0.62,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,mexico,0.44,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,usa,0.39,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,germany,0.36,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,turkey,0.41,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,taiwan,0.5,kg CO2e per kWh,starter_proxy_for_hackathon
+grid_intensity,south_korea,0.46,kg CO2e per kWh,starter_proxy_for_hackathon

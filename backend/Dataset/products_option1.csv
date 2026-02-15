@@ -1,0 +1,354 @@
+product_id,product_name,category,brand,manufacturing_country,market_region,transport_mode,distance_km,unit_weight_kg,material_1,material_share_1,material_2,material_share_2,manufacturing_energy_kwh,packaging_type,recycled_content_pct,certification,price_usd,co2e_total_kg,co2e_material_kg,co2e_manufacturing_kg,co2e_transport_kg,co2e_packaging_kg,climate_score,destination_country,distance_km_raw
+P0001,CottonCloud T Shirt,t_shirt,CottonCloud,vietnam,india,truck,3266.0,0.297,recycled_polyester,0.622,organic_cotton,0.378,0.76,cardboard_box,16.6,bluesign,38.52,3.699,0.734,2.318,0.114,0.25,D,india,3200
+P0002,StepWise Sneakers,sneakers,StepWise,vietnam,southeast_asia,rail,1502.0,1.075,polyester,0.837,recycled_polyester,0.163,3.41,cardboard_box,19.0,none,56.55,9.336,5.474,3.776,0.058,0.25,D,singapore,1800
+P0003,StepWise Sneakers,sneakers,StepWise,india,southeast_asia,ship,3624.0,0.69,polyester,0.736,recycled_polyester,0.264,2.53,cardboard_box,23.8,none,92.49,7.225,3.34,3.771,0.031,0.25,C,singapore,3000
+P0004,StepWise Sneakers,sneakers,StepWise,china,usa_west,ship,11280.0,0.807,polyester,0.732,leather,0.268,3.17,cardboard_box,65.5,bluesign,62.68,11.105,6.493,4.165,0.127,0.25,D,usa,10500
+P0005,EcoThread T Shirt,t_shirt,EcoThread,turkey,india,ship,4460.0,0.276,polyester,0.629,recycled_polyester,0.371,1.08,cardboard_box,47.4,bluesign,28.56,3.355,1.262,1.943,0.019,0.25,C,india,4500
+P0006,ZenPhone Smartphone,smartphone,ZenPhone,taiwan,usa_west,ship,11847.0,0.195,aluminum,0.712,silicon_chip,0.288,4.35,cardboard_box,21.2,none,746.71,7.887,4.124,3.775,0.032,0.25,D,usa,11000
+P0007,StreetPulse Sneakers,sneakers,StreetPulse,vietnam,southeast_asia,rail,1502.0,0.689,polyester,0.617,rubber,0.383,2.81,cardboard_box,54.2,energy_star,71.5,6.661,3.209,3.446,0.037,0.25,B,singapore,1800
+P0008,HydroPop Water Bottle,water_bottle,HydroPop,usa,southeast_asia,ship,14903.0,0.032,recycled_plastic_pet,1.0,,0.0,0.37,recycled_cardboard_box,31.9,none,4.12,1.502,0.054,1.344,0.006,0.16,A,singapore,12500
+P0009,ZenPhone Smartphone,smartphone,ZenPhone,vietnam,usa_west,ship,13407.0,0.244,plastic_pet,0.842,glass,0.158,3.16,cardboard_box,4.7,none,698.41,4.251,0.601,3.638,0.044,0.25,A,usa,12000
+P0010,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,southeast_asia,ship,2880.0,0.299,polyester,0.622,recycled_polyester,0.378,0.8,plastic_wrap,27.4,none,37.42,3.71,1.362,2.296,0.014,0.18,D,singapore,3200
+P0011,PureSip Water Bottle,water_bottle,PureSip,mexico,india,ship,14831.0,0.046,plastic_pet,1.0,,0.0,0.31,plastic_wrap,37.3,none,4.69,1.763,0.124,1.536,0.01,0.18,C,india,15000
+P0012,RunNova Sneakers,sneakers,RunNova,vietnam,southeast_asia,truck,1502.0,0.826,recycled_polyester,0.846,leather,0.154,2.08,none,13.6,none,103.85,6.903,4.004,3.044,0.178,0.0,C,singapore,1800
+P0013,EcoSole Sneakers,sneakers,EcoSole,china,usa_west,air,11280.0,0.905,leather,0.846,rubber,0.154,2.95,recycled_cardboard_box,8.9,none,113.55,25.3,11.944,4.029,11.403,0.16,F,usa,10500
+P0014,RunNova Sneakers,sneakers,RunNova,india,usa_west,ship,13026.0,0.915,rubber,0.833,recycled_polyester,0.167,2.85,plastic_wrap,35.1,none,110.43,7.742,2.974,3.995,0.178,0.18,C,usa,13000
+P0015,EcoThread T Shirt,t_shirt,EcoThread,china,usa_west,ship,11280.0,0.191,cotton,0.737,polyester,0.263,1.14,none,40.3,fair_trade,22.82,3.572,0.572,2.907,0.03,0.0,D,usa,10500
+P0016,BlueRiver Jeans,jeans,BlueRiver,china,southeast_asia,truck,3842.0,0.645,cotton,0.769,organic_cotton,0.231,2.31,cardboard_box,50.0,none,87.45,5.336,1.28,3.632,0.194,0.25,D,singapore,2500
+P0017,StoneWash Jeans,jeans,StoneWash,mexico,india,ship,14831.0,0.618,organic_cotton,0.879,cotton,0.121,1.97,cardboard_box,22.5,none,44.02,3.439,1.026,2.267,0.139,0.25,A,india,15000
+P0018,LeafCell Smartphone,smartphone,LeafCell,south_korea,europe_west,ship,8517.0,0.164,plastic_pet,0.9,recycled_aluminum,0.1,3.17,cardboard_box,25.4,none,1162.51,3.643,0.481,2.758,0.022,0.25,A,germany,8800
+P0019,TerraMobile Smartphone,smartphone,TerraMobile,taiwan,usa_east,ship,11847.0,0.193,silicon_chip,0.712,plastic_pet,0.288,5.71,cardboard_box,14.5,none,800.52,10.905,6.334,4.455,0.036,0.25,E,usa,12500
+P0020,EcoThread T Shirt,t_shirt,EcoThread,china,europe_west,ship,7223.0,0.293,cotton,0.823,recycled_polyester,0.177,1.0,plastic_wrap,7.1,fsc,36.72,3.67,0.662,2.82,0.035,0.18,D,germany,8000
+P0021,StoneWash Jeans,jeans,StoneWash,mexico,india,ship,14831.0,0.882,cotton,0.842,organic_cotton,0.158,2.15,plastic_wrap,23.3,bluesign,94.41,4.528,1.783,2.346,0.198,0.18,C,india,15000
+P0022,AquaGo Water Bottle,water_bottle,AquaGo,china,usa_west,ship,11280.0,0.044,plastic_pet,1.0,,0.0,0.26,recycled_cardboard_box,0.0,gots,3.39,2.627,0.119,2.361,0.007,0.16,D,usa,10500
+P0023,GreenLoop T Shirt,t_shirt,GreenLoop,vietnam,europe_west,ship,9329.0,0.267,recycled_polyester,0.814,polyester,0.186,0.76,recycled_cardboard_box,30.6,none,19.97,3.642,0.925,2.318,0.038,0.16,D,germany,9500
+P0024,RunNova Sneakers,sneakers,RunNova,mexico,india,air,14831.0,0.775,recycled_polyester,0.885,leather,0.115,3.49,plastic_wrap,34.1,none,120.52,19.467,3.395,2.936,13.95,0.18,F,india,15000
+P0025,ZenPhone Smartphone,smartphone,ZenPhone,china,southeast_asia,truck,3842.0,0.19,lithium_ion_battery,0.712,recycled_plastic_pet,0.288,6.17,recycled_cardboard_box,4.1,none,853.67,7.636,1.716,6.025,0.057,0.16,D,singapore,2500
+P0026,SparkOne Smartphone,smartphone,SparkOne,south_korea,europe_west,ship,8517.0,0.185,silicon_chip,0.62,recycled_plastic_pet,0.38,6.27,recycled_cardboard_box,22.6,none,1160.82,9.728,5.281,4.184,0.024,0.16,E,germany,8800
+P0027,StoneWash Jeans,jeans,StoneWash,india,india,truck,0.0,0.749,cotton,0.719,organic_cotton,0.281,1.6,plastic_wrap,6.2,energy_star,94.38,4.777,1.468,3.12,0.072,0.18,C,india,800
+P0028,EcoThread T Shirt,t_shirt,EcoThread,bangladesh,europe_west,air,7289.0,0.188,polyester,0.649,cotton,0.351,0.64,recycled_cardboard_box,28.5,fsc,32.88,5.038,0.81,2.197,1.715,0.16,F,germany,7600
+P0029,LeafCell Smartphone,smartphone,LeafCell,china,usa_west,ship,11280.0,0.241,aluminum,0.605,recycled_plastic_pet,0.395,6.04,cardboard_box,9.2,none,1253.99,8.511,1.839,5.945,0.038,0.25,D,usa,10500
+P0030,SparkOne Smartphone,smartphone,SparkOne,vietnam,europe_west,ship,9329.0,0.207,lithium_ion_battery,0.891,plastic_pet,0.109,4.88,recycled_cardboard_box,19.8,fair_trade,798.22,7.627,2.274,4.584,0.029,0.16,D,germany,9500
+P0031,StoneWash Jeans,jeans,StoneWash,mexico,usa_west,truck,1840.0,0.611,organic_cotton,0.768,cotton,0.232,2.79,cardboard_box,12.3,none,100.16,4.32,1.048,2.628,0.161,0.25,B,usa,2200
+P0032,SkyCompute Laptop,laptop,SkyCompute,south_korea,usa_east,ship,10295.0,1.473,steel,0.62,plastic_pet,0.38,10.28,cardboard_box,48.6,bluesign,791.35,9.979,3.612,6.029,0.265,0.25,A,usa,12000
+P0033,ZenPhone Smartphone,smartphone,ZenPhone,vietnam,usa_west,ship,13407.0,0.182,plastic_pet,0.736,aluminum,0.264,3.05,recycled_cardboard_box,26.1,bluesign,554.77,4.635,0.914,3.577,0.033,0.16,B,usa,12000
+P0034,TerraBook Laptop,laptop,TerraBook,south_korea,usa_east,ship,10295.0,1.234,lithium_ion_battery,0.669,silicon_chip,0.331,12.01,cardboard_box,15.6,fsc,1033.12,34.768,28.287,6.825,0.222,0.25,D,usa,12000
+P0035,BlueRiver Jeans,jeans,BlueRiver,china,india,truck,2842.0,0.693,organic_cotton,0.764,cotton,0.236,2.54,recycled_cardboard_box,29.8,none,38.68,5.816,1.191,3.775,0.316,0.16,E,india,3800
+P0036,GreenLoop T Shirt,t_shirt,GreenLoop,bangladesh,usa_east,ship,12894.0,0.155,organic_cotton,0.866,cotton,0.134,0.76,recycled_cardboard_box,15.6,none,13.6,2.685,0.258,2.271,0.034,0.16,B,usa,14500
+P0037,StreetPulse Sneakers,sneakers,StreetPulse,mexico,southeast_asia,ship,16035.0,0.909,rubber,0.735,polyester,0.265,3.28,none,42.3,gots,137.02,6.231,3.53,2.843,0.198,0.0,A,singapore,14500
+P0038,EarthFit Jeans,jeans,EarthFit,turkey,india,air,4460.0,0.561,cotton,0.617,organic_cotton,0.383,1.66,cardboard_box,34.0,none,118.23,6.119,1.071,2.181,3.029,0.25,E,india,4500
+P0039,CottonCloud T Shirt,t_shirt,CottonCloud,mexico,india,ship,14831.0,0.155,polyester,0.896,organic_cotton,0.104,1.11,plastic_wrap,28.5,none,36.13,3.022,0.79,1.888,0.035,0.18,C,india,15000
+P0040,SparkOne Smartphone,smartphone,SparkOne,vietnam,usa_east,ship,13407.0,0.171,lithium_ion_battery,0.646,aluminum,0.354,4.93,recycled_cardboard_box,16.8,energy_star,911.5,6.467,2.022,4.611,0.035,0.16,C,usa,13500
+P0041,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,usa_east,air,12894.0,0.275,recycled_polyester,0.844,polyester,0.156,1.12,plastic_wrap,31.1,none,14.19,7.056,0.932,2.494,4.785,0.18,F,usa,14500
+P0042,TerraBook Laptop,laptop,TerraBook,taiwan,usa_east,ship,11847.0,1.695,lithium_ion_battery,0.68,recycled_aluminum,0.32,12.32,recycled_cardboard_box,32.2,none,896.42,25.83,16.543,7.76,0.318,0.16,D,usa,12500
+P0043,NovaByte Laptop,laptop,NovaByte,usa,southeast_asia,ship,14903.0,1.833,aluminum,0.803,lithium_ion_battery,0.197,9.83,cardboard_box,32.6,energy_star,695.33,27.42,21.26,5.034,0.344,0.25,D,singapore,12500
+P0044,TerraMobile Smartphone,smartphone,TerraMobile,south_korea,europe_west,ship,8517.0,0.168,glass,0.809,recycled_plastic_pet,0.191,3.49,recycled_cardboard_box,0.0,none,1029.89,3.457,0.218,2.905,0.022,0.16,A,germany,8800
+P0045,StepWise Sneakers,sneakers,StepWise,china,india,truck,2842.0,0.805,rubber,0.626,polyester,0.374,3.17,cardboard_box,28.3,fair_trade,79.42,8.581,3.319,4.165,0.367,0.25,C,india,3800
+P0046,AquaGo Water Bottle,water_bottle,AquaGo,mexico,usa_east,truck,1840.0,0.045,plastic_pet,1.0,,0.0,0.2,cardboard_box,22.1,energy_star,4.68,1.934,0.122,1.488,0.017,0.25,C,usa,3200
+P0047,StepWise Sneakers,sneakers,StepWise,mexico,southeast_asia,ship,16035.0,0.699,polyester,0.718,leather,0.282,3.31,cardboard_box,22.4,fsc,74.94,9.186,5.717,2.856,0.152,0.25,D,singapore,14500
+P0048,StoneWash Jeans,jeans,StoneWash,china,india,ship,2842.0,0.875,cotton,0.82,organic_cotton,0.18,2.63,cardboard_box,28.3,fair_trade,72.3,5.908,1.759,3.831,0.05,0.25,E,india,3800
+P0049,StoneWash Jeans,jeans,StoneWash,vietnam,india,air,3266.0,0.76,organic_cotton,0.766,cotton,0.234,2.47,plastic_wrap,9.3,none,116.61,7.301,1.305,3.258,2.918,0.18,F,india,3200
+P0050,ClearSpring Water Bottle,water_bottle,ClearSpring,china,usa_east,air,11280.0,0.036,plastic_pet,1.0,,0.0,0.48,recycled_cardboard_box,0.0,none,4.33,2.858,0.097,2.498,0.518,0.16,E,usa,12000
+P0051,DenimForge Jeans,jeans,DenimForge,turkey,india,ship,4460.0,0.687,organic_cotton,0.677,cotton,0.323,1.69,plastic_wrap,0.0,bluesign,73.36,3.202,1.21,2.193,0.046,0.18,A,india,4500
+P0052,TerraMobile Smartphone,smartphone,TerraMobile,china,europe_west,ship,7223.0,0.221,glass,0.624,aluminum,0.376,6.44,cardboard_box,0.0,fair_trade,1290.59,7.762,1.121,6.193,0.027,0.25,D,germany,8000
+P0053,DenimForge Jeans,jeans,DenimForge,vietnam,usa_west,ship,13407.0,0.536,organic_cotton,0.735,cotton,0.265,1.9,cardboard_box,39.0,none,91.23,4.424,0.929,2.945,0.096,0.25,C,usa,12000
+P0054,RunNova Sneakers,sneakers,RunNova,vietnam,europe_west,ship,9329.0,0.701,recycled_polyester,0.879,leather,0.121,2.03,plastic_wrap,11.6,fair_trade,56.7,6.431,3.121,3.016,0.1,0.18,B,germany,9500
+P0055,DenimForge Jeans,jeans,DenimForge,vietnam,usa_east,ship,13407.0,0.845,organic_cotton,0.887,cotton,0.113,2.54,cardboard_box,0.0,fair_trade,70.12,4.884,1.4,3.297,0.171,0.25,D,usa,13500
+P0056,SkyCompute Laptop,laptop,SkyCompute,taiwan,europe_west,ship,9296.0,1.941,silicon_chip,0.847,lithium_ion_battery,0.153,13.16,recycled_cardboard_box,15.3,none,1213.55,89.481,77.545,8.18,0.277,0.16,F,germany,9500
+P0057,EarthFit Jeans,jeans,EarthFit,india,europe_west,ship,6540.0,0.722,organic_cotton,0.624,cotton,0.376,2.41,plastic_wrap,20.1,none,50.07,5.227,1.291,3.687,0.076,0.18,D,germany,7000
+P0058,SkyCompute Laptop,laptop,SkyCompute,china,usa_west,ship,11280.0,2.194,silicon_chip,0.892,plastic_pet,0.108,8.76,recycled_cardboard_box,18.5,fair_trade,1116.61,96.929,88.707,7.631,0.346,0.16,F,usa,10500
+P0059,StoneWash Jeans,jeans,StoneWash,china,india,truck,2842.0,0.754,cotton,0.885,organic_cotton,0.115,2.62,plastic_wrap,24.2,none,83.85,5.762,1.54,3.824,0.344,0.18,E,india,3800
+P0060,StoneWash Jeans,jeans,StoneWash,mexico,usa_west,rail,1840.0,0.551,organic_cotton,0.805,cotton,0.195,1.82,plastic_wrap,13.8,none,81.85,3.118,0.935,2.201,0.036,0.18,A,usa,2200
+P0061,TerraBook Laptop,laptop,TerraBook,china,europe_west,ship,7223.0,1.633,recycled_plastic_pet,0.62,steel,0.38,8.14,recycled_cardboard_box,26.2,none,1232.28,10.105,3.148,7.247,0.196,0.16,A,germany,8000
+P0062,SparkOne Smartphone,smartphone,SparkOne,vietnam,usa_east,ship,13407.0,0.243,plastic_pet,0.638,glass,0.362,6.19,cardboard_box,33.2,none,863.93,6.271,0.524,5.305,0.049,0.25,C,usa,13500
+P0063,ZenPhone Smartphone,smartphone,ZenPhone,taiwan,southeast_asia,truck,3100.0,0.21,silicon_chip,0.78,lithium_ion_battery,0.22,5.46,recycled_cardboard_box,0.0,gots,627.99,13.683,7.925,4.33,0.048,0.16,F,singapore,1900
+P0064,CottonCloud T Shirt,t_shirt,CottonCloud,vietnam,southeast_asia,truck,1502.0,0.293,polyester,0.711,recycled_polyester,0.289,0.68,recycled_cardboard_box,50.6,none,15.86,4.311,1.4,2.274,0.063,0.16,F,singapore,1800
+P0065,NovaByte Laptop,laptop,NovaByte,south_korea,usa_west,air,10295.0,1.543,aluminum,0.768,plastic_pet,0.232,9.73,cardboard_box,53.6,none,1003.34,39.642,14.594,5.776,19.442,0.25,E,usa,10500
+P0066,AquaGo Water Bottle,water_bottle,AquaGo,mexico,usa_east,ship,1840.0,0.051,recycled_plastic_pet,1.0,,0.0,0.31,cardboard_box,15.2,energy_star,3.47,1.927,0.087,1.536,0.002,0.25,C,usa,3200
+P0067,SparkOne Smartphone,smartphone,SparkOne,taiwan,southeast_asia,truck,3100.0,0.216,aluminum,0.845,recycled_aluminum,0.155,3.08,cardboard_box,22.2,fair_trade,789.37,5.679,2.266,3.14,0.049,0.25,C,singapore,1900
+P0068,CottonCloud T Shirt,t_shirt,CottonCloud,mexico,usa_east,air,1840.0,0.276,cotton,0.68,polyester,0.32,0.76,none,22.0,fsc,21.54,3.71,0.88,1.734,1.06,0.0,D,usa,3200
+P0069,TerraBook Laptop,laptop,TerraBook,taiwan,india,truck,4303.0,1.878,recycled_plastic_pet,0.68,lithium_ion_battery,0.32,13.96,cardboard_box,44.6,none,1330.37,19.67,9.382,8.58,0.969,0.25,C,india,4300
+P0070,TerraBook Laptop,laptop,TerraBook,taiwan,southeast_asia,truck,3100.0,2.062,plastic_pet,0.721,recycled_aluminum,0.279,13.47,plastic_wrap,36.3,energy_star,1505.26,16.749,6.891,8.335,0.47,0.18,C,singapore,1900
+P0071,GreenLoop T Shirt,t_shirt,GreenLoop,india,usa_west,ship,13026.0,0.188,recycled_polyester,0.702,cotton,0.298,0.81,cardboard_box,27.6,none,42.96,3.139,0.514,2.567,0.037,0.25,C,usa,13000
+P0072,NovaByte Laptop,laptop,NovaByte,south_korea,india,ship,4915.0,2.149,steel,0.689,aluminum,0.311,9.91,recycled_cardboard_box,0.0,none,1016.42,19.106,11.091,5.859,0.152,0.16,C,india,4700
+P0073,CottonCloud T Shirt,t_shirt,CottonCloud,vietnam,southeast_asia,truck,1502.0,0.281,polyester,0.86,organic_cotton,0.14,0.65,cardboard_box,18.7,fsc,28.57,3.933,1.392,2.258,0.061,0.25,E,singapore,1800
+P0074,AquaGo Water Bottle,water_bottle,AquaGo,india,europe_west,ship,6540.0,0.046,plastic_pet,1.0,,0.0,0.4,recycled_cardboard_box,24.1,none,3.09,2.42,0.124,2.28,0.005,0.16,D,germany,7000
+P0075,SparkOne Smartphone,smartphone,SparkOne,china,usa_east,air,11280.0,0.147,silicon_chip,0.854,lithium_ion_battery,0.146,4.85,recycled_cardboard_box,35.9,none,471.69,15.259,5.907,5.207,2.117,0.16,F,usa,12000
+P0076,StepWise Sneakers,sneakers,StepWise,china,india,truck,2842.0,0.618,recycled_polyester,0.89,polyester,0.11,2.21,recycled_cardboard_box,21.9,none,113.8,5.718,2.024,3.57,0.282,0.16,A,india,3800
+P0077,BlueRiver Jeans,jeans,BlueRiver,mexico,usa_east,ship,1840.0,0.543,cotton,0.67,organic_cotton,0.33,1.86,cardboard_box,47.4,none,69.03,3.54,1.051,2.218,0.026,0.25,A,usa,3200
+P0078,SkyCompute Laptop,laptop,SkyCompute,china,india,truck,2842.0,2.16,aluminum,0.848,silicon_chip,0.152,10.57,recycled_cardboard_box,19.0,none,1080.27,43.765,35.839,8.753,0.985,0.16,E,india,3800
+P0079,PulseTech Laptop,laptop,PulseTech,china,usa_west,ship,11280.0,1.618,plastic_pet,0.614,steel,0.386,9.35,cardboard_box,0.0,fsc,1511.6,13.526,4.119,7.997,0.255,0.25,B,usa,10500
+P0080,ClearSpring Water Bottle,water_bottle,ClearSpring,usa,india,ship,13026.0,0.06,plastic_pet,1.0,,0.0,0.41,plastic_wrap,10.7,none,3.76,1.44,0.162,1.36,0.012,0.18,A,india,13000
+P0081,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,europe_west,ship,9329.0,0.242,lithium_ion_battery,0.64,glass,0.36,4.88,recycled_cardboard_box,56.4,energy_star,938.39,6.884,1.963,4.584,0.034,0.16,C,germany,9500
+P0082,EcoThread T Shirt,t_shirt,EcoThread,mexico,india,ship,14831.0,0.198,organic_cotton,0.686,cotton,0.314,1.09,plastic_wrap,30.8,fair_trade,23.23,2.22,0.348,1.88,0.045,0.18,A,india,15000
+P0083,SkyCompute Laptop,laptop,SkyCompute,usa,usa_west,truck,0.0,1.572,plastic_pet,0.628,steel,0.372,13.53,cardboard_box,23.5,none,1482.98,11.997,4.01,6.477,0.226,0.25,A,usa,1200
+P0084,TerraBook Laptop,laptop,TerraBook,taiwan,usa_east,ship,11847.0,2.155,aluminum,0.889,silicon_chip,0.111,12.94,cardboard_box,30.5,none,559.59,46.783,32.796,8.07,0.404,0.25,E,usa,12500
+P0085,StepWise Sneakers,sneakers,StepWise,china,southeast_asia,air,3842.0,1.013,leather,0.809,polyester,0.191,3.5,recycled_cardboard_box,18.5,fair_trade,141.92,22.026,13.357,4.37,3.039,0.16,F,singapore,2500
+P0086,SkyCompute Laptop,laptop,SkyCompute,taiwan,southeast_asia,truck,3100.0,2.126,plastic_pet,0.764,aluminum,0.236,10.47,cardboard_box,8.2,none,1611.66,16.912,10.155,6.835,0.485,0.25,C,singapore,1900
+P0087,GreenLoop T Shirt,t_shirt,GreenLoop,mexico,europe_west,ship,9448.0,0.165,polyester,0.753,recycled_polyester,0.247,0.88,plastic_wrap,28.4,fair_trade,23.17,2.993,0.806,1.787,0.022,0.18,C,germany,9000
+P0088,PureSip Water Bottle,water_bottle,PureSip,usa,usa_west,truck,0.0,0.069,plastic_pet,1.0,,0.0,0.34,plastic_wrap,23.9,energy_star,2.07,1.935,0.186,1.333,0.01,0.18,C,usa,1200
+P0089,EcoThread T Shirt,t_shirt,EcoThread,mexico,usa_west,rail,1840.0,0.215,organic_cotton,0.882,recycled_polyester,0.118,0.64,recycled_cardboard_box,36.3,gots,23.55,2.271,0.38,1.682,0.014,0.16,A,usa,2200
+P0090,UrbanBasic T Shirt,t_shirt,UrbanBasic,turkey,usa_east,ship,10074.0,0.273,cotton,0.832,organic_cotton,0.168,1.18,none,48.9,none,20.98,2.52,0.55,1.984,0.041,0.0,A,usa,10000
+P0091,RunNova Sneakers,sneakers,RunNova,vietnam,europe_west,ship,9329.0,0.762,rubber,0.693,leather,0.307,2.9,cardboard_box,16.5,fsc,46.73,9.916,5.252,3.495,0.109,0.25,D,germany,9500
+P0092,TerraBook Laptop,laptop,TerraBook,south_korea,southeast_asia,truck,4622.0,1.906,recycled_plastic_pet,0.851,steel,0.149,9.69,cardboard_box,35.0,none,1313.81,9.138,3.411,5.757,0.503,0.25,A,singapore,2200
+P0093,BlueRiver Jeans,jeans,BlueRiver,india,europe_west,ship,6540.0,0.769,cotton,0.877,organic_cotton,0.123,2.74,cardboard_box,30.5,none,71.89,5.72,1.568,3.918,0.081,0.25,E,germany,7000
+P0094,EcoSole Sneakers,sneakers,EcoSole,mexico,usa_east,ship,1840.0,0.755,leather,0.72,polyester,0.28,2.62,cardboard_box,12.8,fsc,141.11,12.128,9.317,2.553,0.036,0.25,D,usa,3200
+P0095,ZenPhone Smartphone,smartphone,ZenPhone,south_korea,india,ship,4915.0,0.21,plastic_pet,0.664,silicon_chip,0.336,4.03,recycled_cardboard_box,19.5,bluesign,1182.88,6.937,3.552,3.154,0.015,0.16,C,india,4700
+P0096,StoneWash Jeans,jeans,StoneWash,india,usa_east,ship,13026.0,0.625,organic_cotton,0.742,cotton,0.258,2.04,recycled_cardboard_box,0.0,none,118.81,5.123,1.081,3.428,0.131,0.16,D,usa,14000
+P0097,TerraBook Laptop,laptop,TerraBook,china,india,truck,2842.0,1.313,lithium_ion_battery,0.794,steel,0.206,12.67,recycled_cardboard_box,20.2,energy_star,1506.53,23.753,13.132,10.055,0.599,0.16,D,india,3800
+P0098,BlueRiver Jeans,jeans,BlueRiver,india,usa_west,ship,13026.0,0.801,cotton,0.699,organic_cotton,0.301,1.5,cardboard_box,25.4,none,85.2,4.689,1.562,3.05,0.156,0.25,C,usa,13000
+P0099,TerraMobile Smartphone,smartphone,TerraMobile,taiwan,usa_east,ship,11847.0,0.14,lithium_ion_battery,0.726,recycled_aluminum,0.274,3.35,cardboard_box,39.4,fair_trade,423.94,4.549,1.411,3.275,0.026,0.25,B,usa,12500
+P0100,StoneWash Jeans,jeans,StoneWash,india,usa_west,ship,13026.0,0.559,cotton,0.854,organic_cotton,0.146,2.17,cardboard_box,19.9,none,65.66,4.971,1.133,3.519,0.109,0.25,D,usa,13000
+P0101,HydroPop Water Bottle,water_bottle,HydroPop,mexico,southeast_asia,ship,16035.0,0.048,recycled_plastic_pet,1.0,,0.0,0.3,plastic_wrap,27.4,energy_star,5.51,1.856,0.082,1.532,0.01,0.18,C,singapore,14500
+P0102,SkyCompute Laptop,laptop,SkyCompute,china,southeast_asia,ship,3842.0,1.493,lithium_ion_battery,0.817,plastic_pet,0.183,9.86,recycled_cardboard_box,39.9,bluesign,650.28,25.305,15.375,8.313,0.056,0.16,D,singapore,2500
+P0103,DenimForge Jeans,jeans,DenimForge,turkey,usa_east,ship,10074.0,0.878,cotton,0.707,organic_cotton,0.293,1.92,recycled_cardboard_box,34.8,none,67.18,4.457,1.715,2.287,0.132,0.16,C,usa,10000
+P0104,EcoSole Sneakers,sneakers,EcoSole,vietnam,usa_west,ship,13407.0,0.741,recycled_polyester,0.813,rubber,0.187,3.03,recycled_cardboard_box,44.0,none,57.49,5.622,2.265,3.566,0.133,0.16,A,usa,12000
+P0105,GreenLoop T Shirt,t_shirt,GreenLoop,china,usa_west,ship,11280.0,0.164,organic_cotton,0.613,cotton,0.387,0.95,cardboard_box,0.0,bluesign,32.34,3.476,0.294,2.789,0.026,0.25,D,usa,10500
+P0106,DenimForge Jeans,jeans,DenimForge,china,europe_west,air,7223.0,0.887,organic_cotton,0.716,cotton,0.284,1.72,cardboard_box,13.0,none,116.97,13.046,1.545,3.266,8.515,0.25,F,germany,8000
+P0107,PureSip Water Bottle,water_bottle,PureSip,mexico,india,ship,14831.0,0.076,plastic_pet,1.0,,0.0,0.47,cardboard_box,9.5,none,2.2,2.243,0.205,1.607,0.017,0.25,D,india,15000
+P0108,StoneWash Jeans,jeans,StoneWash,india,usa_east,ship,13026.0,0.799,organic_cotton,0.613,cotton,0.387,1.72,cardboard_box,28.6,energy_star,119.57,4.966,1.433,3.204,0.168,0.25,D,usa,14000
+P0109,PulseTech Laptop,laptop,PulseTech,taiwan,india,ship,4303.0,1.396,steel,0.703,aluminum,0.297,10.26,recycled_cardboard_box,42.7,none,1298.36,13.779,7.025,6.73,0.09,0.16,B,india,4300
+P0110,RunNova Sneakers,sneakers,RunNova,mexico,usa_west,truck,1840.0,0.761,polyester,0.684,leather,0.316,3.3,plastic_wrap,26.1,none,109.31,9.386,6.47,2.852,0.201,0.18,D,usa,2200
+P0111,LeafCell Smartphone,smartphone,LeafCell,vietnam,europe_west,ship,9329.0,0.228,recycled_aluminum,0.765,glass,0.235,3.19,recycled_cardboard_box,16.4,none,265.62,5.069,0.936,3.654,0.032,0.16,B,germany,9500
+P0112,StepWise Sneakers,sneakers,StepWise,china,india,ship,2842.0,1.066,rubber,0.771,polyester,0.229,3.3,plastic_wrap,23.5,none,157.03,8.492,4.055,4.246,0.061,0.18,C,india,3800
+P0113,DenimForge Jeans,jeans,DenimForge,turkey,europe_west,ship,2354.0,0.682,organic_cotton,0.758,cotton,0.242,1.91,plastic_wrap,28.7,none,104.41,4.27,1.174,2.283,0.026,0.18,B,germany,2500
+P0114,StepWise Sneakers,sneakers,StepWise,china,europe_west,ship,7223.0,0.924,polyester,0.78,rubber,0.22,3.1,cardboard_box,66.4,bluesign,137.21,9.765,4.635,4.122,0.111,0.25,D,germany,8000
+P0115,TerraMobile Smartphone,smartphone,TerraMobile,south_korea,usa_east,ship,10295.0,0.183,silicon_chip,0.64,aluminum,0.36,6.47,recycled_cardboard_box,33.9,none,1068.7,9.769,6.028,4.276,0.033,0.16,E,usa,12000
+P0116,LeafCell Smartphone,smartphone,LeafCell,taiwan,usa_west,air,11847.0,0.241,silicon_chip,0.692,recycled_aluminum,0.308,4.97,cardboard_box,43.3,gots,1025.4,15.374,7.876,4.085,3.181,0.25,F,usa,11000
+P0117,StreetPulse Sneakers,sneakers,StreetPulse,mexico,usa_east,ship,1840.0,0.968,leather,0.626,rubber,0.374,2.14,recycled_cardboard_box,45.5,fsc,57.35,13.65,10.284,2.342,0.046,0.16,E,usa,3200
+P0118,RunNova Sneakers,sneakers,RunNova,china,india,truck,2842.0,0.889,leather,0.777,polyester,0.223,2.33,none,0.0,bluesign,64.72,16.256,11.452,3.645,0.405,0.0,E,india,3800
+P0119,StreetPulse Sneakers,sneakers,StreetPulse,india,india,truck,0.0,0.721,recycled_polyester,0.778,polyester,0.222,2.45,plastic_wrap,32.1,none,130.93,6.774,2.563,3.715,0.069,0.18,B,india,800
+P0120,BlueRiver Jeans,jeans,BlueRiver,mexico,europe_west,ship,9448.0,0.653,cotton,0.724,organic_cotton,0.276,2.2,plastic_wrap,10.1,energy_star,80.16,3.98,1.281,2.368,0.088,0.18,B,germany,9000
+P0121,HydroPop Water Bottle,water_bottle,HydroPop,mexico,usa_west,rail,1840.0,0.077,recycled_plastic_pet,1.0,,0.0,0.41,plastic_wrap,24.3,none,5.6,1.723,0.131,1.58,0.005,0.18,B,usa,2200
+P0122,SparkOne Smartphone,smartphone,SparkOne,vietnam,india,ship,3266.0,0.153,glass,0.773,aluminum,0.227,3.48,recycled_cardboard_box,29.2,fair_trade,1035.63,4.121,0.541,3.814,0.007,0.16,A,india,3200
+P0123,HydroPop Water Bottle,water_bottle,HydroPop,india,europe_west,ship,6540.0,0.07,recycled_plastic_pet,1.0,,0.0,0.3,cardboard_box,17.9,none,4.28,2.715,0.119,2.21,0.007,0.25,D,germany,7000
+P0124,EcoSole Sneakers,sneakers,EcoSole,vietnam,usa_west,air,13407.0,0.654,leather,0.748,polyester,0.252,2.32,none,13.2,none,105.41,20.074,8.244,3.176,9.418,0.0,F,usa,12000
+P0125,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,usa_west,ship,12894.0,0.246,cotton,0.734,recycled_polyester,0.266,0.97,plastic_wrap,6.1,none,20.52,3.214,0.575,2.401,0.05,0.18,C,usa,13500
+P0126,CottonCloud T Shirt,t_shirt,CottonCloud,india,usa_west,ship,13026.0,0.298,recycled_polyester,0.728,organic_cotton,0.272,0.99,plastic_wrap,46.9,none,42.39,3.858,0.781,2.693,0.058,0.18,E,usa,13000
+P0127,PureSip Water Bottle,water_bottle,PureSip,mexico,usa_east,truck,1840.0,0.039,plastic_pet,1.0,,0.0,0.36,plastic_wrap,0.0,none,2.92,1.65,0.105,1.558,0.015,0.18,B,usa,3200
+P0128,LeafCell Smartphone,smartphone,LeafCell,south_korea,india,ship,4915.0,0.157,aluminum,0.77,recycled_plastic_pet,0.23,3.67,recycled_cardboard_box,23.7,none,298.29,4.093,1.452,2.988,0.011,0.16,A,india,4700
+P0129,UrbanBasic T Shirt,t_shirt,UrbanBasic,china,southeast_asia,ship,3842.0,0.268,organic_cotton,0.838,recycled_polyester,0.162,1.12,none,32.4,energy_star,14.24,3.507,0.49,2.894,0.01,0.0,D,singapore,2500
+P0130,ClearSpring Water Bottle,water_bottle,ClearSpring,mexico,usa_west,truck,1840.0,0.032,recycled_plastic_pet,1.0,,0.0,0.43,plastic_wrap,28.4,bluesign,2.17,1.77,0.054,1.589,0.008,0.18,C,usa,2200
+P0131,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,usa_east,air,12894.0,0.28,polyester,0.681,organic_cotton,0.319,0.82,cardboard_box,9.9,none,44.61,8.451,1.192,2.308,4.872,0.25,F,usa,14500
+P0132,GreenLoop T Shirt,t_shirt,GreenLoop,bangladesh,europe_west,ship,7289.0,0.177,recycled_polyester,0.739,polyester,0.261,0.7,none,19.5,none,20.37,3.102,0.646,2.234,0.02,0.0,C,germany,7600
+P0133,EcoThread T Shirt,t_shirt,EcoThread,mexico,usa_west,truck,1840.0,0.201,organic_cotton,0.666,polyester,0.334,1.07,cardboard_box,25.9,fair_trade,15.57,2.716,0.583,1.871,0.053,0.25,B,usa,2200
+P0134,PulseTech Laptop,laptop,PulseTech,china,southeast_asia,air,3842.0,1.611,steel,0.624,recycled_plastic_pet,0.376,9.9,cardboard_box,0.2,none,1794.04,16.72,3.342,8.338,4.833,0.25,B,singapore,2500
+P0135,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,europe_west,ship,7289.0,0.29,recycled_polyester,0.667,polyester,0.333,1.17,recycled_cardboard_box,16.0,gots,39.46,3.9,1.111,2.525,0.033,0.16,E,germany,7600
+P0136,NovaByte Laptop,laptop,NovaByte,usa,usa_west,truck,0.0,1.824,aluminum,0.838,steel,0.162,13.54,cardboard_box,41.0,none,1835.25,22.652,18.258,6.481,0.263,0.25,C,usa,1200
+P0137,SparkOne Smartphone,smartphone,SparkOne,vietnam,europe_west,ship,9329.0,0.224,recycled_aluminum,0.812,lithium_ion_battery,0.188,5.67,cardboard_box,40.3,bluesign,500.51,7.421,1.415,5.018,0.032,0.25,D,germany,9500
+P0138,BlueRiver Jeans,jeans,BlueRiver,vietnam,southeast_asia,truck,1502.0,0.608,organic_cotton,0.811,cotton,0.189,2.44,none,21.0,none,83.68,4.515,1.03,3.242,0.131,0.0,C,singapore,1800
+P0139,RunNova Sneakers,sneakers,RunNova,vietnam,usa_east,ship,13407.0,0.656,leather,0.616,rubber,0.384,3.09,recycled_cardboard_box,7.4,none,132.7,10.44,6.893,3.6,0.133,0.16,D,usa,13500
+P0140,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,usa_east,ship,12894.0,0.205,cotton,0.624,recycled_polyester,0.376,0.82,recycled_cardboard_box,15.3,bluesign,13.77,3.221,0.5,2.308,0.045,0.16,C,usa,14500
+P0141,RunNova Sneakers,sneakers,RunNova,india,europe_west,ship,6540.0,1.02,recycled_polyester,0.844,polyester,0.156,2.31,recycled_cardboard_box,13.8,bluesign,65.53,6.937,3.458,3.617,0.107,0.16,C,germany,7000
+P0142,RunNova Sneakers,sneakers,RunNova,india,india,truck,0.0,0.617,recycled_polyester,0.644,leather,0.356,3.14,cardboard_box,41.9,energy_star,148.45,8.628,4.487,4.198,0.059,0.25,C,india,800
+P0143,RunNova Sneakers,sneakers,RunNova,india,europe_west,ship,6540.0,0.644,polyester,0.661,recycled_polyester,0.339,2.33,recycled_cardboard_box,38.7,none,99.95,6.352,2.996,3.631,0.068,0.16,B,germany,7000
+P0144,ZenPhone Smartphone,smartphone,ZenPhone,south_korea,usa_west,ship,10295.0,0.222,silicon_chip,0.745,plastic_pet,0.255,6.09,plastic_wrap,0.0,none,746.93,11.754,7.595,4.101,0.035,0.18,E,usa,10500
+P0145,DenimForge Jeans,jeans,DenimForge,vietnam,southeast_asia,truck,1502.0,0.674,cotton,0.826,organic_cotton,0.174,2.59,plastic_wrap,31.2,none,106.26,4.785,1.357,3.324,0.146,0.18,D,singapore,1800
+P0146,TerraBook Laptop,laptop,TerraBook,usa,usa_east,ship,0.0,1.345,recycled_aluminum,0.608,lithium_ion_battery,0.392,13.19,cardboard_box,28.9,fair_trade,1607.46,17.338,10.416,6.344,0.05,0.25,C,usa,2500
+P0147,StoneWash Jeans,jeans,StoneWash,vietnam,india,ship,3266.0,0.647,organic_cotton,0.773,cotton,0.227,2.46,cardboard_box,19.5,none,90.79,4.458,1.109,3.253,0.031,0.25,C,india,3200
+P0148,ClearSpring Water Bottle,water_bottle,ClearSpring,india,southeast_asia,air,3624.0,0.057,plastic_pet,1.0,,0.0,0.48,cardboard_box,16.3,fair_trade,4.57,2.992,0.154,2.336,0.205,0.25,F,singapore,3000
+P0149,CottonCloud T Shirt,t_shirt,CottonCloud,mexico,usa_east,ship,1840.0,0.263,organic_cotton,0.809,recycled_polyester,0.191,0.79,cardboard_box,45.8,bluesign,15.06,2.568,0.491,1.748,0.013,0.25,B,usa,3200
+P0150,UrbanBasic T Shirt,t_shirt,UrbanBasic,india,usa_east,ship,13026.0,0.293,organic_cotton,0.635,polyester,0.365,0.94,none,0.0,none,43.87,3.691,0.886,2.658,0.062,0.0,D,usa,14000
+P0151,TerraBook Laptop,laptop,TerraBook,usa,europe_west,ship,7783.0,1.392,lithium_ion_battery,0.791,steel,0.209,12.12,recycled_cardboard_box,7.6,energy_star,817.31,20.565,13.882,5.927,0.136,0.16,C,germany,6500
+P0152,HydroPop Water Bottle,water_bottle,HydroPop,usa,usa_west,truck,0.0,0.039,plastic_pet,1.0,,0.0,0.21,recycled_cardboard_box,62.3,energy_star,4.16,1.561,0.105,1.282,0.006,0.16,B,usa,1200
+P0153,DenimForge Jeans,jeans,DenimForge,mexico,india,ship,14831.0,0.816,cotton,0.676,organic_cotton,0.324,2.58,cardboard_box,6.2,bluesign,117.54,4.326,1.581,2.535,0.184,0.25,C,india,15000
+P0154,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_west,ship,11280.0,0.147,silicon_chip,0.68,aluminum,0.32,3.06,cardboard_box,38.1,none,404.45,8.29,5.039,4.097,0.023,0.25,D,usa,10500
+P0155,StreetPulse Sneakers,sneakers,StreetPulse,india,southeast_asia,truck,3624.0,0.768,rubber,0.741,recycled_polyester,0.259,2.62,none,51.7,none,96.37,6.726,2.475,3.834,0.276,0.0,B,singapore,3000
+P0156,BlueRiver Jeans,jeans,BlueRiver,mexico,usa_west,truck,1840.0,0.742,organic_cotton,0.763,cotton,0.237,1.79,recycled_cardboard_box,24.9,fair_trade,108.66,3.498,1.275,2.188,0.196,0.16,A,usa,2200
+P0157,SkyCompute Laptop,laptop,SkyCompute,taiwan,usa_east,ship,11847.0,1.757,silicon_chip,0.733,recycled_plastic_pet,0.267,10.35,cardboard_box,35.4,fair_trade,976.62,67.469,58.752,6.775,0.329,0.25,F,usa,12500
+P0158,SparkOne Smartphone,smartphone,SparkOne,vietnam,usa_west,ship,13407.0,0.245,aluminum,0.705,glass,0.295,5.97,cardboard_box,47.5,energy_star,340.64,7.529,2.073,5.184,0.044,0.25,D,usa,12000
+P0159,SparkOne Smartphone,smartphone,SparkOne,south_korea,europe_west,ship,8517.0,0.226,silicon_chip,0.687,aluminum,0.313,6.43,recycled_cardboard_box,0.0,fair_trade,863.44,12.214,7.8,4.258,0.03,0.16,F,germany,8800
+P0160,PulseTech Laptop,laptop,PulseTech,taiwan,usa_west,ship,11847.0,1.348,aluminum,0.775,lithium_ion_battery,0.225,11.44,recycled_cardboard_box,71.6,fair_trade,1420.61,23.367,15.654,7.32,0.222,0.16,D,usa,11000
+P0161,EcoSole Sneakers,sneakers,EcoSole,china,europe_west,ship,7223.0,0.887,leather,0.622,polyester,0.378,2.91,cardboard_box,38.0,fair_trade,121.26,14.98,10.12,4.004,0.106,0.25,E,germany,8000
+P0162,BlueRiver Jeans,jeans,BlueRiver,vietnam,europe_west,ship,9329.0,0.816,organic_cotton,0.819,cotton,0.181,2.47,none,21.9,none,105.28,4.477,1.379,3.258,0.116,0.0,C,germany,9500
+P0163,LeafCell Smartphone,smartphone,LeafCell,china,india,truck,2842.0,0.204,aluminum,0.807,plastic_pet,0.193,6.09,recycled_cardboard_box,29.6,fair_trade,355.15,8.385,2.0,5.976,0.093,0.16,D,india,3800
+P0164,EarthFit Jeans,jeans,EarthFit,india,usa_east,ship,13026.0,0.893,cotton,0.883,organic_cotton,0.117,2.14,cardboard_box,27.3,energy_star,65.86,6.132,1.823,3.498,0.188,0.25,E,usa,14000
+P0165,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_west,ship,11280.0,0.249,silicon_chip,0.828,plastic_pet,0.172,6.4,recycled_cardboard_box,36.9,fair_trade,693.29,16.507,9.393,6.168,0.039,0.16,F,usa,10500
+P0166,PulseTech Laptop,laptop,PulseTech,china,usa_east,ship,11280.0,1.621,aluminum,0.67,plastic_pet,0.33,10.09,recycled_cardboard_box,19.6,none,1293.6,24.356,13.934,8.456,0.292,0.16,D,usa,12000
+P0167,ClearSpring Water Bottle,water_bottle,ClearSpring,china,india,air,2842.0,0.037,plastic_pet,1.0,,0.0,0.38,recycled_cardboard_box,50.0,fsc,1.85,2.817,0.1,2.436,0.169,0.16,E,india,3800
+P0168,StepWise Sneakers,sneakers,StepWise,india,europe_west,ship,6540.0,0.964,leather,0.792,rubber,0.208,2.75,recycled_cardboard_box,30.0,none,118.61,16.221,12.114,3.925,0.101,0.16,E,germany,7000
+P0169,TerraBook Laptop,laptop,TerraBook,china,southeast_asia,truck,3842.0,1.836,aluminum,0.879,silicon_chip,0.121,10.75,plastic_wrap,6.0,bluesign,1539.1,42.441,28.556,8.865,0.551,0.18,E,singapore,2500
+P0170,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,europe_west,ship,9329.0,0.218,recycled_aluminum,0.602,lithium_ion_battery,0.398,6.42,cardboard_box,26.8,fsc,815.41,7.634,1.697,5.431,0.031,0.25,D,germany,9500
+P0171,SkyCompute Laptop,laptop,SkyCompute,taiwan,europe_west,ship,9296.0,1.737,lithium_ion_battery,0.702,silicon_chip,0.298,11.28,cardboard_box,23.4,none,1275.79,46.376,37.926,7.24,0.248,0.25,E,germany,9500
+P0172,RunNova Sneakers,sneakers,RunNova,vietnam,southeast_asia,truck,1502.0,0.628,polyester,0.79,recycled_polyester,0.21,2.76,plastic_wrap,0.0,gots,58.61,7.27,3.124,3.418,0.136,0.18,C,singapore,1800
+P0173,SkyCompute Laptop,laptop,SkyCompute,taiwan,southeast_asia,rail,3100.0,1.229,recycled_aluminum,0.806,silicon_chip,0.194,12.75,plastic_wrap,36.8,fair_trade,1396.8,22.659,15.682,7.975,0.07,0.18,C,singapore,1900
+P0174,EcoThread T Shirt,t_shirt,EcoThread,mexico,southeast_asia,ship,16035.0,0.224,organic_cotton,0.895,cotton,0.105,0.96,cardboard_box,37.0,bluesign,36.96,2.472,0.37,1.822,0.049,0.25,A,singapore,14500
+P0175,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_west,ship,11280.0,0.242,glass,0.657,aluminum,0.343,5.19,cardboard_box,0.0,none,411.86,7.033,1.145,5.418,0.038,0.25,C,usa,10500
+P0176,EcoThread T Shirt,t_shirt,EcoThread,vietnam,europe_west,ship,9329.0,0.173,recycled_polyester,0.627,cotton,0.373,0.79,plastic_wrap,25.5,fair_trade,34.13,2.989,0.461,2.334,0.025,0.18,C,germany,9500
+P0177,NovaByte Laptop,laptop,NovaByte,usa,india,ship,13026.0,1.398,lithium_ion_battery,0.852,recycled_plastic_pet,0.148,10.14,cardboard_box,17.5,fsc,1449.89,22.164,14.645,5.155,0.273,0.25,C,india,13000
+P0178,ZenPhone Smartphone,smartphone,ZenPhone,china,southeast_asia,ship,3842.0,0.167,aluminum,0.894,plastic_pet,0.106,4.84,plastic_wrap,31.0,gots,1178.92,7.34,1.765,5.201,0.006,0.18,D,singapore,2500
+P0179,UrbanBasic T Shirt,t_shirt,UrbanBasic,turkey,europe_west,ship,2354.0,0.212,polyester,0.76,recycled_polyester,0.24,0.78,none,51.0,none,44.75,3.019,1.039,1.82,0.008,0.0,C,germany,2500
+P0180,StepWise Sneakers,sneakers,StepWise,mexico,usa_west,rail,1840.0,0.665,leather,0.894,polyester,0.106,3.12,none,35.6,fair_trade,80.51,11.524,9.305,2.773,0.044,0.0,D,usa,2200
+P0181,ZenPhone Smartphone,smartphone,ZenPhone,china,india,ship,2842.0,0.178,plastic_pet,0.69,aluminum,0.31,6.46,cardboard_box,21.9,none,510.81,7.428,0.966,6.205,0.01,0.25,D,india,3800
+P0182,PulseTech Laptop,laptop,PulseTech,china,europe_west,ship,7223.0,1.897,silicon_chip,0.815,recycled_plastic_pet,0.185,9.74,recycled_cardboard_box,45.8,fsc,1043.15,78.682,70.169,8.239,0.228,0.16,F,germany,8000
+P0183,TerraMobile Smartphone,smartphone,TerraMobile,taiwan,usa_east,air,11847.0,0.23,silicon_chip,0.601,lithium_ion_battery,0.399,6.05,recycled_cardboard_box,12.6,gots,616.91,16.043,7.322,4.625,3.45,0.16,F,usa,12500
+P0184,SkyCompute Laptop,laptop,SkyCompute,usa,india,ship,13026.0,1.797,plastic_pet,0.777,recycled_aluminum,0.223,11.85,recycled_cardboard_box,28.6,fair_trade,1899.35,12.461,5.774,5.822,0.35,0.16,B,india,13000
+P0185,ZenPhone Smartphone,smartphone,ZenPhone,vietnam,europe_west,ship,9329.0,0.212,recycled_plastic_pet,0.763,glass,0.237,4.16,cardboard_box,11.4,none,504.13,4.805,0.335,4.188,0.03,0.25,B,germany,9500
+P0186,HydroPop Water Bottle,water_bottle,HydroPop,usa,usa_west,rail,0.0,0.057,recycled_plastic_pet,1.0,,0.0,0.44,cardboard_box,0.0,none,1.72,1.781,0.097,1.372,0.002,0.25,C,usa,1200
+P0187,BlueRiver Jeans,jeans,BlueRiver,mexico,europe_west,ship,9448.0,0.706,organic_cotton,0.875,cotton,0.125,2.62,none,41.1,none,43.2,4.302,1.174,2.553,0.095,0.0,B,germany,9000
+P0188,PulseTech Laptop,laptop,PulseTech,taiwan,usa_west,ship,11847.0,1.655,recycled_aluminum,0.616,recycled_plastic_pet,0.384,10.97,recycled_cardboard_box,22.5,none,1521.62,13.724,6.178,7.085,0.273,0.16,B,usa,11000
+P0189,StoneWash Jeans,jeans,StoneWash,vietnam,india,ship,3266.0,0.706,cotton,0.725,organic_cotton,0.275,1.86,recycled_cardboard_box,29.3,none,61.28,4.328,1.386,2.923,0.034,0.16,C,india,3200
+P0190,PulseTech Laptop,laptop,PulseTech,china,usa_east,ship,11280.0,1.288,silicon_chip,0.704,plastic_pet,0.296,12.24,cardboard_box,16.9,none,719.69,55.885,41.833,9.789,0.232,0.25,F,usa,12000
+P0191,StoneWash Jeans,jeans,StoneWash,mexico,southeast_asia,ship,16035.0,0.753,organic_cotton,0.874,cotton,0.126,2.0,recycled_cardboard_box,37.7,none,64.16,4.2,1.252,2.28,0.164,0.16,B,singapore,14500
+P0192,SparkOne Smartphone,smartphone,SparkOne,vietnam,india,truck,3266.0,0.168,aluminum,0.882,plastic_pet,0.118,5.57,cardboard_box,13.5,none,375.73,7.117,1.758,4.964,0.065,0.25,C,india,3200
+P0193,StreetPulse Sneakers,sneakers,StreetPulse,vietnam,southeast_asia,rail,1502.0,0.867,polyester,0.729,recycled_polyester,0.271,3.3,cardboard_box,30.9,none,66.16,8.669,4.181,3.715,0.047,0.25,C,singapore,1800
+P0194,TerraBook Laptop,laptop,TerraBook,south_korea,usa_west,ship,10295.0,1.42,lithium_ion_battery,0.772,steel,0.228,10.24,recycled_cardboard_box,0.0,none,1361.26,17.82,13.9,6.01,0.224,0.16,C,usa,10500
+P0195,StoneWash Jeans,jeans,StoneWash,vietnam,europe_west,ship,9329.0,0.601,organic_cotton,0.849,cotton,0.151,2.01,none,1.3,none,40.65,4.216,1.007,3.005,0.086,0.0,B,germany,9500
+P0196,LeafCell Smartphone,smartphone,LeafCell,china,southeast_asia,truck,3842.0,0.217,recycled_plastic_pet,0.668,lithium_ion_battery,0.332,3.21,cardboard_box,0.0,fsc,352.77,5.558,1.111,4.19,0.065,0.25,B,singapore,2500
+P0197,StoneWash Jeans,jeans,StoneWash,mexico,india,ship,14831.0,0.804,organic_cotton,0.868,cotton,0.132,1.92,recycled_cardboard_box,1.2,none,45.82,4.445,1.339,2.245,0.181,0.16,C,india,15000
+P0198,BlueRiver Jeans,jeans,BlueRiver,turkey,usa_west,ship,10074.0,0.565,organic_cotton,0.753,cotton,0.247,2.28,plastic_wrap,4.1,fair_trade,47.6,3.735,0.974,2.435,0.093,0.18,B,usa,11000
+P0199,ZenPhone Smartphone,smartphone,ZenPhone,taiwan,southeast_asia,truck,3100.0,0.207,recycled_aluminum,0.673,aluminum,0.327,4.14,cardboard_box,1.6,none,1035.36,6.044,1.475,3.67,0.047,0.25,C,singapore,1900
+P0200,CottonCloud T Shirt,t_shirt,CottonCloud,india,usa_east,ship,13026.0,0.217,organic_cotton,0.78,recycled_polyester,0.22,0.77,plastic_wrap,11.3,gots,27.86,3.146,0.414,2.539,0.046,0.18,C,usa,14000
+P0201,SparkOne Smartphone,smartphone,SparkOne,china,europe_west,air,7223.0,0.16,lithium_ion_battery,0.827,plastic_pet,0.173,3.11,cardboard_box,0.0,gots,374.03,7.458,1.663,4.128,1.536,0.25,D,germany,8000
+P0202,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,india,ship,3266.0,0.15,silicon_chip,0.759,aluminum,0.241,5.27,plastic_wrap,4.4,bluesign,259.15,10.198,5.539,4.798,0.007,0.18,E,india,3200
+P0203,StreetPulse Sneakers,sneakers,StreetPulse,vietnam,usa_east,ship,13407.0,0.822,rubber,0.715,polyester,0.285,2.54,recycled_cardboard_box,42.6,fsc,62.07,6.377,3.228,3.297,0.166,0.16,B,usa,13500
+P0204,DenimForge Jeans,jeans,DenimForge,china,india,ship,2842.0,0.872,organic_cotton,0.794,cotton,0.206,2.56,cardboard_box,42.6,gots,101.01,5.388,1.485,3.787,0.05,0.25,D,india,3800
+P0205,LeafCell Smartphone,smartphone,LeafCell,south_korea,usa_east,air,10295.0,0.142,glass,0.893,recycled_aluminum,0.107,3.61,recycled_cardboard_box,0.0,none,705.86,5.754,0.228,2.961,2.045,0.16,C,usa,12000
+P0206,GreenLoop T Shirt,t_shirt,GreenLoop,india,india,rail,0.0,0.161,recycled_polyester,0.678,organic_cotton,0.322,0.7,cardboard_box,28.7,gots,17.52,2.869,0.41,2.49,0.004,0.25,B,india,800
+P0207,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,europe_west,air,7289.0,0.21,polyester,0.625,recycled_polyester,0.375,1.13,recycled_cardboard_box,31.4,none,17.59,5.57,0.958,2.501,1.915,0.16,F,germany,7600
+P0208,ZenPhone Smartphone,smartphone,ZenPhone,south_korea,europe_west,ship,8517.0,0.249,glass,0.645,recycled_plastic_pet,0.355,4.87,recycled_cardboard_box,21.8,gots,547.52,4.351,0.343,3.54,0.033,0.16,B,germany,8800
+P0209,GreenLoop T Shirt,t_shirt,GreenLoop,bangladesh,usa_east,ship,12894.0,0.202,polyester,0.841,organic_cotton,0.159,0.87,plastic_wrap,16.8,energy_star,25.2,3.607,0.986,2.339,0.044,0.18,D,usa,14500
+P0210,StepWise Sneakers,sneakers,StepWise,india,europe_west,ship,6540.0,1.081,recycled_polyester,0.63,polyester,0.37,2.41,recycled_cardboard_box,26.4,energy_star,62.45,8.467,4.243,3.687,0.114,0.16,C,germany,7000
+P0211,PulseTech Laptop,laptop,PulseTech,china,india,ship,2842.0,1.47,aluminum,0.715,plastic_pet,0.285,9.77,cardboard_box,34.2,bluesign,1219.47,22.282,13.218,8.257,0.084,0.25,C,india,3800
+P0212,ClearSpring Water Bottle,water_bottle,ClearSpring,china,europe_west,air,7223.0,0.051,recycled_plastic_pet,1.0,,0.0,0.44,recycled_cardboard_box,26.2,energy_star,1.73,3.312,0.087,2.473,0.49,0.16,F,germany,8000
+P0213,ClearSpring Water Bottle,water_bottle,ClearSpring,mexico,usa_west,truck,1840.0,0.037,recycled_plastic_pet,1.0,,0.0,0.41,plastic_wrap,21.6,none,4.95,1.626,0.063,1.58,0.01,0.18,B,usa,2200
+P0214,AquaGo Water Bottle,water_bottle,AquaGo,china,usa_west,ship,11280.0,0.034,plastic_pet,1.0,,0.0,0.31,plastic_wrap,8.0,none,2.49,2.912,0.092,2.392,0.005,0.18,E,usa,10500
+P0215,EcoSole Sneakers,sneakers,EcoSole,china,usa_east,ship,11280.0,0.721,leather,0.803,rubber,0.197,2.76,none,19.6,none,69.32,13.493,9.153,3.911,0.13,0.0,E,usa,12000
+P0216,AquaGo Water Bottle,water_bottle,AquaGo,india,southeast_asia,ship,3624.0,0.034,recycled_plastic_pet,1.0,,0.0,0.25,plastic_wrap,7.9,none,1.88,2.338,0.058,2.175,0.002,0.18,D,singapore,3000
+P0217,CottonCloud T Shirt,t_shirt,CottonCloud,vietnam,europe_west,ship,9329.0,0.226,recycled_polyester,0.705,cotton,0.295,1.05,cardboard_box,34.2,energy_star,35.88,3.322,0.618,2.478,0.032,0.25,C,germany,9500
+P0218,StoneWash Jeans,jeans,StoneWash,vietnam,india,ship,3266.0,0.801,cotton,0.877,organic_cotton,0.123,1.77,plastic_wrap,3.5,fair_trade,110.74,4.692,1.633,2.874,0.038,0.18,C,india,3200
+P0219,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_west,ship,11280.0,0.219,lithium_ion_battery,0.651,aluminum,0.349,5.47,plastic_wrap,32.5,fair_trade,820.75,8.748,2.59,5.591,0.034,0.18,D,usa,10500
+P0220,GreenLoop T Shirt,t_shirt,GreenLoop,turkey,southeast_asia,air,8078.0,0.176,organic_cotton,0.689,recycled_polyester,0.311,0.91,cardboard_box,4.1,none,38.25,3.785,0.358,1.873,1.584,0.25,E,singapore,7500
+P0221,BlueRiver Jeans,jeans,BlueRiver,mexico,india,ship,14831.0,0.693,cotton,0.846,organic_cotton,0.154,2.1,none,20.3,fair_trade,54.39,3.596,1.402,2.324,0.156,0.0,B,india,15000
+P0222,StepWise Sneakers,sneakers,StepWise,china,usa_east,ship,11280.0,1.067,recycled_polyester,0.885,polyester,0.115,2.03,cardboard_box,18.6,none,96.15,6.84,3.508,3.459,0.192,0.25,B,usa,12000
+P0223,LeafCell Smartphone,smartphone,LeafCell,vietnam,europe_west,ship,9329.0,0.177,recycled_plastic_pet,0.685,lithium_ion_battery,0.315,5.77,cardboard_box,12.3,fsc,967.8,6.567,0.875,5.074,0.025,0.25,C,germany,9500
+P0224,SparkOne Smartphone,smartphone,SparkOne,south_korea,europe_west,ship,8517.0,0.249,recycled_aluminum,0.802,glass,0.198,3.62,cardboard_box,59.3,bluesign,542.6,4.079,1.058,2.965,0.033,0.25,A,germany,8800
+P0225,EcoSole Sneakers,sneakers,EcoSole,mexico,usa_east,ship,1840.0,0.681,recycled_polyester,0.657,leather,0.343,2.91,none,12.0,fair_trade,122.17,7.627,4.846,2.68,0.033,0.0,C,usa,3200
+P0226,PulseTech Laptop,laptop,PulseTech,usa,southeast_asia,ship,14903.0,2.11,plastic_pet,0.856,recycled_plastic_pet,0.144,10.12,plastic_wrap,28.1,none,1626.14,10.375,5.393,5.147,0.396,0.18,A,singapore,12500
+P0227,LeafCell Smartphone,smartphone,LeafCell,china,usa_east,ship,11280.0,0.182,silicon_chip,0.624,recycled_aluminum,0.376,3.24,recycled_cardboard_box,27.2,energy_star,1091.43,9.833,5.453,4.209,0.033,0.16,E,usa,12000
+P0228,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_east,air,11280.0,0.221,silicon_chip,0.865,lithium_ion_battery,0.135,6.49,cardboard_box,8.8,none,1112.89,18.098,8.96,6.224,3.182,0.25,F,usa,12000
+P0229,GreenLoop T Shirt,t_shirt,GreenLoop,china,usa_east,ship,11280.0,0.227,polyester,0.65,recycled_polyester,0.35,0.88,recycled_cardboard_box,54.8,none,41.53,3.828,1.05,2.746,0.041,0.16,E,usa,12000
+P0230,LeafCell Smartphone,smartphone,LeafCell,south_korea,india,ship,4915.0,0.163,recycled_aluminum,0.696,plastic_pet,0.304,5.8,cardboard_box,13.7,none,597.7,5.271,0.701,3.968,0.011,0.25,B,india,4700
+P0231,StreetPulse Sneakers,sneakers,StreetPulse,china,southeast_asia,truck,3842.0,1.086,leather,0.702,recycled_polyester,0.298,2.36,recycled_cardboard_box,29.0,energy_star,117.07,16.686,12.406,3.663,0.326,0.16,F,singapore,2500
+P0232,UrbanBasic T Shirt,t_shirt,UrbanBasic,vietnam,usa_west,ship,13407.0,0.222,cotton,0.608,polyester,0.392,0.71,cardboard_box,10.9,none,17.93,3.158,0.762,2.29,0.04,0.25,C,usa,12000
+P0233,PureSip Water Bottle,water_bottle,PureSip,mexico,southeast_asia,ship,16035.0,0.066,plastic_pet,1.0,,0.0,0.26,cardboard_box,18.2,fair_trade,3.75,2.24,0.178,1.514,0.014,0.25,D,singapore,14500
+P0234,ZenPhone Smartphone,smartphone,ZenPhone,south_korea,usa_east,ship,10295.0,0.156,recycled_plastic_pet,0.843,aluminum,0.157,3.89,plastic_wrap,32.2,none,446.16,3.597,0.505,3.089,0.028,0.18,A,usa,12000
+P0235,EcoSole Sneakers,sneakers,EcoSole,india,southeast_asia,truck,3624.0,0.602,rubber,0.839,recycled_polyester,0.161,3.5,recycled_cardboard_box,26.1,none,101.21,6.323,1.958,4.45,0.217,0.16,A,singapore,3000
+P0236,TerraMobile Smartphone,smartphone,TerraMobile,china,india,truck,2842.0,0.233,silicon_chip,0.678,glass,0.322,4.05,cardboard_box,4.1,none,518.33,11.063,7.199,4.711,0.106,0.25,E,india,3800
+P0237,StreetPulse Sneakers,sneakers,StreetPulse,mexico,southeast_asia,ship,16035.0,0.886,recycled_polyester,0.83,leather,0.17,2.59,plastic_wrap,28.0,bluesign,101.78,8.103,4.465,2.54,0.193,0.18,C,singapore,14500
+P0238,PureSip Water Bottle,water_bottle,PureSip,india,europe_west,ship,6540.0,0.047,recycled_plastic_pet,1.0,,0.0,0.42,recycled_cardboard_box,25.0,fair_trade,4.72,2.575,0.08,2.294,0.005,0.16,D,germany,7000
+P0239,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,india,rail,1186.0,0.287,cotton,0.727,recycled_polyester,0.273,0.94,plastic_wrap,61.6,none,19.77,3.318,0.673,2.383,0.01,0.18,C,india,1200
+P0240,EarthFit Jeans,jeans,EarthFit,india,europe_west,ship,6540.0,0.722,cotton,0.638,organic_cotton,0.362,2.19,recycled_cardboard_box,14.2,none,38.24,5.504,1.386,3.533,0.076,0.16,E,germany,7000
+P0241,BlueRiver Jeans,jeans,BlueRiver,india,southeast_asia,ship,3624.0,0.76,organic_cotton,0.71,cotton,0.29,2.69,cardboard_box,35.9,fair_trade,107.57,5.547,1.326,3.883,0.034,0.25,E,singapore,3000
+P0242,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,europe_west,ship,7289.0,0.237,polyester,0.723,organic_cotton,0.277,0.74,none,44.8,none,35.54,3.485,1.047,2.259,0.027,0.0,D,germany,7600
+P0243,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,india,ship,3266.0,0.227,glass,0.809,lithium_ion_battery,0.191,6.47,plastic_wrap,50.2,none,893.1,7.045,0.741,5.458,0.011,0.18,C,india,3200
+P0244,LeafCell Smartphone,smartphone,LeafCell,vietnam,europe_west,ship,9329.0,0.196,aluminum,0.664,silicon_chip,0.336,3.17,plastic_wrap,38.7,fsc,1190.96,8.458,4.46,3.644,0.028,0.18,D,germany,9500
+P0245,DenimForge Jeans,jeans,DenimForge,turkey,usa_west,ship,10074.0,0.693,cotton,0.721,organic_cotton,0.279,2.48,plastic_wrap,63.9,fsc,87.33,4.382,1.359,2.517,0.114,0.18,C,usa,11000
+P0246,StreetPulse Sneakers,sneakers,StreetPulse,mexico,southeast_asia,ship,16035.0,0.954,rubber,0.721,polyester,0.279,2.54,cardboard_box,15.1,bluesign,79.17,6.811,3.734,2.518,0.207,0.25,B,singapore,14500
+P0247,StreetPulse Sneakers,sneakers,StreetPulse,vietnam,usa_west,ship,13407.0,0.945,leather,0.695,recycled_polyester,0.305,3.1,cardboard_box,5.1,bluesign,65.75,14.91,10.716,3.605,0.17,0.25,E,usa,12000
+P0248,StreetPulse Sneakers,sneakers,StreetPulse,mexico,india,ship,14831.0,0.881,rubber,0.681,leather,0.319,2.22,cardboard_box,6.6,none,76.47,9.814,6.195,2.377,0.198,0.25,D,india,15000
+P0249,TerraBook Laptop,laptop,TerraBook,china,usa_east,ship,11280.0,1.547,lithium_ion_battery,0.866,silicon_chip,0.134,10.54,cardboard_box,45.5,none,1631.82,35.979,25.405,8.735,0.278,0.25,D,usa,12000
+P0250,RunNova Sneakers,sneakers,RunNova,china,southeast_asia,ship,3842.0,0.843,polyester,0.638,recycled_polyester,0.362,2.1,none,18.7,none,122.43,7.552,3.874,3.502,0.032,0.0,C,singapore,2500
+P0251,DenimForge Jeans,jeans,DenimForge,china,usa_west,ship,11280.0,0.843,cotton,0.868,organic_cotton,0.132,2.75,cardboard_box,35.9,none,111.38,5.343,1.715,3.905,0.133,0.25,D,usa,10500
+P0252,NovaByte Laptop,laptop,NovaByte,china,usa_east,ship,11280.0,1.449,lithium_ion_battery,0.824,aluminum,0.176,12.06,recycled_cardboard_box,31.8,none,644.95,25.984,17.26,9.677,0.261,0.16,D,usa,12000
+P0253,RunNova Sneakers,sneakers,RunNova,vietnam,europe_west,ship,9329.0,1.038,polyester,0.839,leather,0.161,2.85,cardboard_box,7.3,bluesign,110.65,10.738,7.297,3.468,0.148,0.25,D,germany,9500
+P0254,UrbanBasic T Shirt,t_shirt,UrbanBasic,mexico,europe_west,air,9448.0,0.229,recycled_polyester,0.841,polyester,0.159,1.03,cardboard_box,11.4,none,43.73,5.365,0.778,1.853,2.473,0.25,F,germany,9000
+P0255,GreenLoop T Shirt,t_shirt,GreenLoop,mexico,usa_west,truck,1840.0,0.298,cotton,0.823,recycled_polyester,0.177,0.94,cardboard_box,35.2,none,43.47,2.887,0.673,1.814,0.079,0.25,B,usa,2200
+P0256,ZenPhone Smartphone,smartphone,ZenPhone,china,europe_west,ship,7223.0,0.163,recycled_plastic_pet,0.836,silicon_chip,0.164,5.25,recycled_cardboard_box,15.8,energy_star,571.58,7.158,1.435,5.455,0.02,0.16,C,germany,8000
+P0257,UrbanBasic T Shirt,t_shirt,UrbanBasic,turkey,europe_west,ship,2354.0,0.262,recycled_polyester,0.644,cotton,0.356,1.18,cardboard_box,34.8,none,19.47,2.927,0.702,1.984,0.01,0.25,B,germany,2500
+P0258,BlueRiver Jeans,jeans,BlueRiver,india,usa_west,ship,13026.0,0.553,cotton,0.726,organic_cotton,0.274,2.25,plastic_wrap,0.0,none,95.85,5.065,1.086,3.575,0.108,0.18,D,usa,13000
+P0259,DenimForge Jeans,jeans,DenimForge,india,europe_west,ship,6540.0,0.705,cotton,0.805,organic_cotton,0.195,2.19,cardboard_box,44.1,none,41.9,5.397,1.412,3.533,0.074,0.25,D,germany,7000
+P0260,LeafCell Smartphone,smartphone,LeafCell,south_korea,europe_west,ship,8517.0,0.224,plastic_pet,0.657,silicon_chip,0.343,4.59,cardboard_box,43.7,energy_star,299.14,7.972,3.855,3.411,0.03,0.25,D,germany,8800
+P0261,TerraBook Laptop,laptop,TerraBook,usa,southeast_asia,ship,14903.0,1.316,lithium_ion_battery,0.811,aluminum,0.189,11.75,plastic_wrap,27.7,bluesign,1608.11,19.629,15.668,5.783,0.247,0.18,C,singapore,12500
+P0262,UrbanBasic T Shirt,t_shirt,UrbanBasic,china,usa_east,ship,11280.0,0.273,recycled_polyester,0.883,polyester,0.117,0.61,recycled_cardboard_box,13.7,energy_star,43.24,3.922,0.899,2.578,0.049,0.16,E,usa,12000
+P0263,ZenPhone Smartphone,smartphone,ZenPhone,vietnam,europe_west,ship,9329.0,0.154,silicon_chip,0.694,aluminum,0.306,5.97,recycled_cardboard_box,26.5,none,518.38,11.999,5.351,5.184,0.022,0.16,F,germany,9500
+P0264,ZenPhone Smartphone,smartphone,ZenPhone,china,usa_east,ship,11280.0,0.25,glass,0.879,lithium_ion_battery,0.121,4.73,cardboard_box,45.4,bluesign,1287.51,6.484,0.627,5.133,0.045,0.25,C,usa,12000
+P0265,StoneWash Jeans,jeans,StoneWash,china,usa_west,ship,11280.0,0.794,cotton,0.861,organic_cotton,0.139,2.03,cardboard_box,0.8,energy_star,108.46,5.323,1.612,3.459,0.125,0.25,D,usa,10500
+P0266,AquaGo Water Bottle,water_bottle,AquaGo,usa,india,ship,13026.0,0.054,plastic_pet,1.0,,0.0,0.23,plastic_wrap,3.6,none,5.65,1.544,0.146,1.29,0.011,0.18,A,india,13000
+P0267,PulseTech Laptop,laptop,PulseTech,taiwan,india,ship,4303.0,1.42,lithium_ion_battery,0.786,aluminum,0.214,10.99,plastic_wrap,61.9,bluesign,1587.2,24.24,16.888,7.095,0.092,0.18,D,india,4300
+P0268,NovaByte Laptop,laptop,NovaByte,south_korea,india,ship,4915.0,1.299,silicon_chip,0.613,lithium_ion_battery,0.387,8.44,cardboard_box,9.0,fair_trade,877.57,51.335,41.865,5.182,0.092,0.25,E,india,4700
+P0269,EarthFit Jeans,jeans,EarthFit,china,usa_east,air,11280.0,0.774,cotton,0.656,organic_cotton,0.344,2.57,cardboard_box,31.9,energy_star,71.88,17.005,1.492,3.793,11.146,0.25,F,usa,12000
+P0270,EcoThread T Shirt,t_shirt,EcoThread,india,southeast_asia,ship,3624.0,0.156,cotton,0.679,organic_cotton,0.321,0.76,cardboard_box,24.9,energy_star,25.5,2.73,0.303,2.532,0.007,0.25,B,singapore,3000
+P0271,StepWise Sneakers,sneakers,StepWise,china,india,ship,2842.0,0.854,recycled_polyester,0.674,leather,0.326,3.22,none,10.9,none,47.59,8.179,5.903,4.196,0.049,0.0,C,india,3800
+P0272,UrbanBasic T Shirt,t_shirt,UrbanBasic,india,usa_east,ship,13026.0,0.265,polyester,0.76,cotton,0.24,0.83,recycled_cardboard_box,19.7,none,40.72,4.098,1.241,2.581,0.056,0.16,E,usa,14000
+P0273,RunNova Sneakers,sneakers,RunNova,mexico,usa_east,ship,1840.0,1.031,leather,0.827,recycled_polyester,0.173,2.99,cardboard_box,52.6,gots,85.37,18.702,13.325,2.716,0.049,0.25,F,usa,3200
+P0274,CottonCloud T Shirt,t_shirt,CottonCloud,india,usa_west,ship,13026.0,0.174,organic_cotton,0.727,cotton,0.273,0.62,plastic_wrap,24.8,none,29.58,2.677,0.302,2.434,0.034,0.18,B,usa,13000
+P0275,SkyCompute Laptop,laptop,SkyCompute,taiwan,usa_east,ship,11847.0,1.746,recycled_aluminum,0.797,lithium_ion_battery,0.203,10.45,cardboard_box,14.2,none,1613.83,17.949,11.211,6.825,0.327,0.25,C,usa,12500
+P0276,SkyCompute Laptop,laptop,SkyCompute,usa,usa_west,truck,0.0,1.89,lithium_ion_battery,0.734,recycled_aluminum,0.266,9.88,cardboard_box,8.9,none,761.5,24.813,19.161,5.053,0.272,0.25,D,usa,1200
+P0277,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,usa_west,ship,13407.0,0.248,lithium_ion_battery,0.877,silicon_chip,0.123,6.26,cardboard_box,8.8,none,394.98,9.814,3.983,5.343,0.045,0.25,E,usa,12000
+P0278,BlueRiver Jeans,jeans,BlueRiver,vietnam,southeast_asia,rail,1502.0,0.767,cotton,0.783,organic_cotton,0.217,2.75,recycled_cardboard_box,1.7,bluesign,92.36,5.418,1.527,3.412,0.041,0.16,D,singapore,1800
+P0279,RunNova Sneakers,sneakers,RunNova,mexico,usa_west,truck,1840.0,0.659,polyester,0.726,recycled_polyester,0.274,2.13,cardboard_box,26.5,fsc,55.3,5.377,3.173,2.337,0.174,0.25,A,usa,2200
+P0280,DenimForge Jeans,jeans,DenimForge,turkey,india,ship,4460.0,0.565,cotton,0.763,organic_cotton,0.237,2.37,none,54.1,none,86.52,3.657,1.12,2.472,0.038,0.0,B,india,4500
+P0281,StreetPulse Sneakers,sneakers,StreetPulse,india,usa_west,ship,13026.0,0.864,leather,0.602,polyester,0.398,3.43,cardboard_box,13.6,none,154.04,13.956,9.693,4.401,0.168,0.25,E,usa,13000
+P0282,EcoThread T Shirt,t_shirt,EcoThread,vietnam,europe_west,ship,9329.0,0.271,polyester,0.878,organic_cotton,0.122,1.04,recycled_cardboard_box,19.5,fair_trade,19.47,4.236,1.362,2.472,0.039,0.16,E,germany,9500
+P0283,TerraBook Laptop,laptop,TerraBook,taiwan,southeast_asia,truck,3100.0,2.055,lithium_ion_battery,0.739,steel,0.261,9.16,cardboard_box,31.5,energy_star,1638.55,26.981,19.457,6.18,0.469,0.25,D,singapore,1900
+P0284,SkyCompute Laptop,laptop,SkyCompute,china,europe_west,ship,7223.0,1.433,aluminum,0.701,plastic_pet,0.299,10.07,plastic_wrap,36.5,bluesign,985.12,22.948,12.709,8.443,0.172,0.18,D,germany,8000
+P0285,LeafCell Smartphone,smartphone,LeafCell,south_korea,europe_west,air,8517.0,0.172,aluminum,0.693,plastic_pet,0.307,4.48,cardboard_box,51.3,none,359.08,6.436,1.513,3.361,1.816,0.25,C,germany,8800
+P0286,GreenLoop T Shirt,t_shirt,GreenLoop,vietnam,usa_west,ship,13407.0,0.191,polyester,0.745,recycled_polyester,0.255,0.95,cardboard_box,47.8,energy_star,18.28,3.395,0.929,2.422,0.034,0.25,C,usa,12000
+P0287,EcoThread T Shirt,t_shirt,EcoThread,bangladesh,europe_west,ship,7289.0,0.291,recycled_polyester,0.857,polyester,0.143,1.18,cardboard_box,46.6,none,29.13,3.631,0.977,2.532,0.033,0.25,D,germany,7600
+P0288,StepWise Sneakers,sneakers,StepWise,india,india,rail,0.0,1.024,recycled_polyester,0.626,leather,0.374,3.19,cardboard_box,10.9,bluesign,57.73,11.832,7.668,4.233,0.025,0.25,D,india,800
+P0289,DenimForge Jeans,jeans,DenimForge,india,usa_east,ship,13026.0,0.667,organic_cotton,0.819,cotton,0.181,2.07,plastic_wrap,0.0,fair_trade,49.11,4.687,1.128,3.449,0.14,0.18,C,usa,14000
+P0290,SkyCompute Laptop,laptop,SkyCompute,south_korea,europe_west,ship,8517.0,1.622,recycled_aluminum,0.843,recycled_plastic_pet,0.157,13.61,recycled_cardboard_box,21.4,fair_trade,1448.37,14.059,7.27,7.561,0.214,0.16,B,germany,8800
+P0291,StoneWash Jeans,jeans,StoneWash,vietnam,usa_west,air,13407.0,0.578,organic_cotton,0.665,cotton,0.335,2.15,plastic_wrap,44.4,bluesign,71.17,12.163,1.022,3.082,8.323,0.18,F,usa,12000
+P0292,ClearSpring Water Bottle,water_bottle,ClearSpring,usa,europe_west,ship,7783.0,0.065,recycled_plastic_pet,1.0,,0.0,0.31,cardboard_box,20.4,fsc,5.03,1.523,0.11,1.321,0.006,0.25,A,germany,6500
+P0293,SkyCompute Laptop,laptop,SkyCompute,taiwan,europe_west,ship,9296.0,2.135,plastic_pet,0.677,silicon_chip,0.323,13.41,cardboard_box,26.7,bluesign,698.49,46.361,34.935,8.305,0.304,0.25,E,germany,9500
+P0294,SparkOne Smartphone,smartphone,SparkOne,vietnam,usa_west,ship,13407.0,0.189,plastic_pet,0.661,glass,0.339,4.53,plastic_wrap,21.9,none,483.87,4.869,0.414,4.392,0.034,0.18,B,usa,12000
+P0295,GreenLoop T Shirt,t_shirt,GreenLoop,vietnam,india,ship,3266.0,0.214,organic_cotton,0.761,cotton,0.239,0.82,none,19.9,none,21.13,2.52,0.368,2.351,0.01,0.0,A,india,3200
+P0296,DenimForge Jeans,jeans,DenimForge,china,usa_west,ship,11280.0,0.838,cotton,0.801,organic_cotton,0.199,2.13,recycled_cardboard_box,51.8,none,112.5,5.541,1.676,3.521,0.132,0.16,E,usa,10500
+P0297,SkyCompute Laptop,laptop,SkyCompute,china,usa_west,ship,11280.0,1.438,silicon_chip,0.886,recycled_plastic_pet,0.114,11.05,cardboard_box,0.0,none,591.48,60.603,57.612,9.051,0.226,0.25,F,usa,10500
+P0298,AquaGo Water Bottle,water_bottle,AquaGo,usa,usa_west,rail,0.0,0.063,plastic_pet,1.0,,0.0,0.44,recycled_cardboard_box,54.4,gots,5.63,1.739,0.17,1.372,0.002,0.16,C,usa,1200
+P0299,CottonCloud T Shirt,t_shirt,CottonCloud,india,europe_west,ship,6540.0,0.222,recycled_polyester,0.668,cotton,0.332,1.01,plastic_wrap,11.2,fsc,30.09,3.432,0.6,2.707,0.023,0.18,D,germany,7000
+P0300,EarthFit Jeans,jeans,EarthFit,india,usa_west,ship,13026.0,0.693,cotton,0.686,organic_cotton,0.314,1.67,cardboard_box,24.8,bluesign,71.43,5.402,1.346,3.169,0.135,0.25,D,usa,13000
+P0301,EarthFit Jeans,jeans,EarthFit,mexico,europe_west,ship,9448.0,0.547,organic_cotton,0.795,cotton,0.205,1.52,recycled_cardboard_box,42.1,none,72.66,3.334,0.931,2.069,0.074,0.16,A,germany,9000
+P0302,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,southeast_asia,ship,2880.0,0.178,polyester,0.776,cotton,0.224,1.1,cardboard_box,0.0,none,12.4,3.412,0.843,2.482,0.009,0.25,C,singapore,3200
+P0303,HydroPop Water Bottle,water_bottle,HydroPop,china,usa_east,ship,11280.0,0.035,plastic_pet,1.0,,0.0,0.44,cardboard_box,24.5,energy_star,3.59,2.971,0.095,2.473,0.006,0.25,F,usa,12000
+P0304,DenimForge Jeans,jeans,DenimForge,china,india,air,2842.0,0.788,cotton,0.858,organic_cotton,0.142,1.58,cardboard_box,35.8,none,95.14,8.675,1.599,3.18,3.593,0.25,F,india,3800
+P0305,SkyCompute Laptop,laptop,SkyCompute,south_korea,india,ship,4915.0,1.995,lithium_ion_battery,0.758,plastic_pet,0.242,9.52,cardboard_box,24.9,none,1259.65,26.501,19.45,5.679,0.141,0.25,D,india,4700
+P0306,SkyCompute Laptop,laptop,SkyCompute,taiwan,india,truck,4303.0,2.131,recycled_aluminum,0.847,recycled_plastic_pet,0.153,8.04,recycled_cardboard_box,29.9,none,1336.41,13.404,9.579,5.62,1.1,0.16,B,india,4300
+P0307,BlueRiver Jeans,jeans,BlueRiver,vietnam,europe_west,ship,9329.0,0.58,cotton,0.876,organic_cotton,0.124,1.96,cardboard_box,51.0,none,35.41,4.365,1.182,2.978,0.083,0.25,C,germany,9500
+P0308,TerraBook Laptop,laptop,TerraBook,taiwan,europe_west,ship,9296.0,1.879,recycled_aluminum,0.723,plastic_pet,0.277,11.91,cardboard_box,57.8,energy_star,1753.08,15.811,8.198,7.555,0.268,0.25,B,germany,9500
+P0309,EarthFit Jeans,jeans,EarthFit,china,europe_west,air,7223.0,0.857,cotton,0.883,organic_cotton,0.117,1.97,none,21.0,fsc,60.64,14.41,1.75,3.421,8.227,0.0,F,germany,8000
+P0310,DenimForge Jeans,jeans,DenimForge,india,usa_east,ship,13026.0,0.562,cotton,0.757,organic_cotton,0.243,2.53,plastic_wrap,35.0,none,51.77,4.838,1.112,3.771,0.118,0.18,D,usa,14000
+P0311,SkyCompute Laptop,laptop,SkyCompute,taiwan,usa_east,ship,11847.0,1.496,plastic_pet,0.794,recycled_plastic_pet,0.206,10.77,cardboard_box,34.1,none,1546.44,11.465,3.731,6.985,0.28,0.25,A,usa,12500
+P0312,SkyCompute Laptop,laptop,SkyCompute,china,usa_west,ship,11280.0,1.96,recycled_plastic_pet,0.693,aluminum,0.307,12.99,plastic_wrap,36.0,fair_trade,857.66,19.733,9.229,10.254,0.309,0.18,C,usa,10500
+P0313,StreetPulse Sneakers,sneakers,StreetPulse,india,usa_east,ship,13026.0,0.873,rubber,0.749,polyester,0.251,3.39,none,64.8,none,80.47,7.251,3.363,4.373,0.183,0.0,C,usa,14000
+P0314,StreetPulse Sneakers,sneakers,StreetPulse,vietnam,usa_west,ship,13407.0,0.84,rubber,0.602,recycled_polyester,0.398,3.02,none,0.0,none,119.77,6.157,2.672,3.561,0.151,0.0,A,usa,12000
+P0315,SparkOne Smartphone,smartphone,SparkOne,china,usa_east,air,11280.0,0.169,plastic_pet,0.644,aluminum,0.356,6.45,cardboard_box,11.9,energy_star,430.63,10.173,0.986,6.199,2.434,0.25,E,usa,12000
+P0316,EcoThread T Shirt,t_shirt,EcoThread,turkey,india,air,4460.0,0.175,polyester,0.754,cotton,0.246,0.94,plastic_wrap,17.3,none,39.01,3.774,0.816,1.885,0.945,0.18,E,india,4500
+P0317,LeafCell Smartphone,smartphone,LeafCell,taiwan,usa_east,ship,11847.0,0.176,recycled_plastic_pet,0.794,aluminum,0.206,4.96,recycled_cardboard_box,0.0,energy_star,389.76,4.868,0.655,4.08,0.033,0.16,B,usa,12500
+P0318,TerraMobile Smartphone,smartphone,TerraMobile,vietnam,india,ship,3266.0,0.169,recycled_plastic_pet,0.754,glass,0.246,3.61,recycled_cardboard_box,56.4,none,579.86,4.292,0.267,3.886,0.008,0.16,A,india,3200
+P0319,TerraMobile Smartphone,smartphone,TerraMobile,china,europe_west,ship,7223.0,0.238,recycled_aluminum,0.601,aluminum,0.399,5.27,plastic_wrap,18.4,none,1175.79,7.509,1.807,5.467,0.029,0.18,D,germany,8000
+P0320,EcoSole Sneakers,sneakers,EcoSole,india,southeast_asia,ship,3624.0,1.013,polyester,0.789,rubber,0.211,2.18,plastic_wrap,5.4,none,107.57,9.002,5.101,3.526,0.046,0.18,D,singapore,3000
+P0321,AquaGo Water Bottle,water_bottle,AquaGo,mexico,europe_west,air,9448.0,0.031,plastic_pet,1.0,,0.0,0.49,plastic_wrap,34.9,none,3.61,2.199,0.084,1.616,0.335,0.18,D,germany,9000
+P0322,EcoSole Sneakers,sneakers,EcoSole,china,india,truck,2842.0,0.841,recycled_polyester,0.727,rubber,0.273,3.44,none,60.0,none,133.85,6.649,2.592,4.333,0.383,0.0,B,india,3800
+P0323,RunNova Sneakers,sneakers,RunNova,china,usa_east,ship,11280.0,0.717,leather,0.628,rubber,0.372,2.39,none,25.8,fsc,77.04,11.275,7.634,3.682,0.129,0.0,D,usa,12000
+P0324,BlueRiver Jeans,jeans,BlueRiver,turkey,europe_west,ship,2354.0,0.524,cotton,0.809,organic_cotton,0.191,1.96,recycled_cardboard_box,0.0,none,79.02,3.545,1.05,2.304,0.02,0.16,A,germany,2500
+P0325,TerraBook Laptop,laptop,TerraBook,south_korea,usa_west,air,10295.0,1.33,plastic_pet,0.863,silicon_chip,0.137,10.16,cardboard_box,0.0,fair_trade,1419.14,37.571,11.298,5.974,16.758,0.25,E,usa,10500
+P0326,StreetPulse Sneakers,sneakers,StreetPulse,india,usa_east,ship,13026.0,0.807,leather,0.844,polyester,0.156,3.2,plastic_wrap,2.3,fair_trade,88.52,14.532,10.909,4.24,0.169,0.18,E,usa,14000
+P0327,RunNova Sneakers,sneakers,RunNova,vietnam,india,ship,3266.0,0.882,leather,0.613,rubber,0.387,2.18,recycled_cardboard_box,23.9,none,141.08,13.683,9.236,3.099,0.042,0.16,E,india,3200
+P0328,ZenPhone Smartphone,smartphone,ZenPhone,china,usa_west,ship,11280.0,0.152,aluminum,0.632,glass,0.368,6.18,cardboard_box,10.7,energy_star,1098.55,7.218,1.172,6.032,0.024,0.25,C,usa,10500
+P0329,LeafCell Smartphone,smartphone,LeafCell,taiwan,india,air,4303.0,0.171,plastic_pet,0.821,recycled_aluminum,0.179,5.12,recycled_cardboard_box,25.2,none,815.44,6.268,0.532,4.16,0.882,0.16,C,india,4300
+P0330,PulseTech Laptop,laptop,PulseTech,china,europe_west,ship,7223.0,2.009,plastic_pet,0.667,steel,0.333,13.36,recycled_cardboard_box,37.9,none,874.77,14.028,5.157,10.483,0.241,0.16,B,germany,8000
+P0331,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,usa_west,ship,12894.0,0.28,recycled_polyester,0.877,cotton,0.123,1.13,cardboard_box,18.5,fair_trade,16.2,3.546,0.809,2.501,0.057,0.25,D,usa,13500
+P0332,UrbanBasic T Shirt,t_shirt,UrbanBasic,china,southeast_asia,air,3842.0,0.234,cotton,0.893,polyester,0.107,0.92,none,20.2,none,34.32,3.469,0.577,2.77,0.702,0.0,D,singapore,2500
+P0333,UrbanBasic T Shirt,t_shirt,UrbanBasic,bangladesh,europe_west,ship,7289.0,0.16,polyester,0.684,organic_cotton,0.316,1.15,none,9.3,none,26.35,2.926,0.683,2.513,0.018,0.0,B,germany,7600
+P0334,UrbanBasic T Shirt,t_shirt,UrbanBasic,turkey,southeast_asia,ship,8078.0,0.225,cotton,0.858,polyester,0.142,0.67,cardboard_box,13.1,none,21.68,2.554,0.581,1.775,0.025,0.25,A,singapore,7500
+P0335,AquaGo Water Bottle,water_bottle,AquaGo,china,usa_west,ship,11280.0,0.035,plastic_pet,1.0,,0.0,0.46,plastic_wrap,4.5,none,4.97,2.837,0.095,2.485,0.006,0.18,E,usa,10500
+P0336,SparkOne Smartphone,smartphone,SparkOne,taiwan,usa_west,ship,11847.0,0.171,lithium_ion_battery,0.602,glass,0.398,4.61,cardboard_box,14.8,none,905.99,5.227,1.317,3.905,0.028,0.25,B,usa,11000
+P0337,CottonCloud T Shirt,t_shirt,CottonCloud,india,usa_east,ship,13026.0,0.248,cotton,0.832,organic_cotton,0.168,0.83,recycled_cardboard_box,23.8,fair_trade,28.15,3.331,0.5,2.581,0.052,0.16,C,usa,14000
+P0338,EcoThread T Shirt,t_shirt,EcoThread,vietnam,europe_west,air,9329.0,0.296,polyester,0.693,recycled_polyester,0.307,1.02,cardboard_box,13.0,energy_star,41.39,7.093,1.401,2.461,3.374,0.25,F,germany,9500
+P0339,EcoThread T Shirt,t_shirt,EcoThread,china,usa_east,ship,11280.0,0.204,polyester,0.742,organic_cotton,0.258,0.91,plastic_wrap,37.2,none,27.25,4.261,0.917,2.764,0.037,0.18,E,usa,12000
+P0340,ZenPhone Smartphone,smartphone,ZenPhone,south_korea,india,ship,4915.0,0.2,recycled_plastic_pet,0.731,silicon_chip,0.269,6.0,recycled_cardboard_box,0.0,bluesign,549.77,6.641,2.67,4.06,0.014,0.16,C,india,4700
+P0341,SparkOne Smartphone,smartphone,SparkOne,taiwan,southeast_asia,rail,3100.0,0.197,aluminum,0.707,recycled_aluminum,0.293,5.92,plastic_wrap,31.3,gots,691.38,7.401,1.89,4.56,0.011,0.18,D,singapore,1900
+P0342,CottonCloud T Shirt,t_shirt,CottonCloud,bangladesh,usa_east,ship,12894.0,0.298,organic_cotton,0.742,polyester,0.258,0.6,plastic_wrap,16.9,none,30.36,3.528,0.777,2.172,0.065,0.18,D,usa,14500
+P0343,EcoThread T Shirt,t_shirt,EcoThread,turkey,southeast_asia,ship,8078.0,0.156,recycled_polyester,0.849,polyester,0.151,0.7,recycled_cardboard_box,1.1,bluesign,44.32,2.348,0.527,1.787,0.018,0.16,A,singapore,7500
+P0344,GreenLoop T Shirt,t_shirt,GreenLoop,bangladesh,india,truck,1186.0,0.177,organic_cotton,0.745,cotton,0.255,0.86,recycled_cardboard_box,25.9,bluesign,26.27,2.904,0.306,2.333,0.025,0.16,B,india,1200
+P0345,EcoThread T Shirt,t_shirt,EcoThread,turkey,southeast_asia,ship,8078.0,0.293,polyester,0.894,cotton,0.106,0.76,recycled_cardboard_box,22.4,none,44.38,3.402,1.506,1.812,0.033,0.16,C,singapore,7500
+P0346,TerraMobile Smartphone,smartphone,TerraMobile,china,usa_east,ship,11280.0,0.159,silicon_chip,0.654,plastic_pet,0.346,5.78,cardboard_box,44.8,fair_trade,890.01,11.811,4.828,5.784,0.029,0.25,E,usa,12000
+P0347,LeafCell Smartphone,smartphone,LeafCell,south_korea,india,ship,4915.0,0.153,aluminum,0.735,silicon_chip,0.265,4.62,cardboard_box,30.1,none,898.54,6.915,3.118,3.425,0.011,0.25,C,india,4700
+P0348,EcoSole Sneakers,sneakers,EcoSole,india,india,truck,0.0,0.856,polyester,0.798,leather,0.202,2.06,none,21.5,fair_trade,127.29,10.922,6.351,3.442,0.082,0.0,D,india,800
+P0349,HydroPop Water Bottle,water_bottle,HydroPop,mexico,southeast_asia,air,16035.0,0.08,plastic_pet,1.0,,0.0,0.35,recycled_cardboard_box,60.0,none,5.14,3.275,0.216,1.554,1.392,0.16,F,singapore,14500
+P0350,PulseTech Laptop,laptop,PulseTech,usa,india,air,13026.0,2.038,steel,0.619,aluminum,0.381,8.85,cardboard_box,17.2,none,1721.01,47.512,11.831,4.651,31.793,0.25,E,india,13000
+P9001,NeuroCore AI GPU Chip,ai_gpu_chip,NeuroCore,taiwan,usa_west,air,11847.0,0.082,silicon_mix,0.68,electronics_mix,0.32,245.0,recycled_cardboard_box,10.0,energy_star,12999.0,168.75,9.43,157.82,1.30,0.20,C,usa,11000
+P9002,TensorMax AI GPU Chip,ai_gpu_chip,TensorMax,south_korea,europe_west,ship,8517.0,0.079,electronics_mix,0.58,silicon_mix,0.42,228.0,recycled_cardboard_box,14.0,energy_star,11999.0,128.40,8.74,118.95,0.51,0.20,B,germany,8800
+P9003,AccelEdge AI GPU Chip,ai_gpu_chip,AccelEdge,china,india,ship,2842.0,0.085,silicon_mix,0.72,copper,0.28,212.0,recycled_cardboard_box,8.0,none,10499.0,136.20,7.98,127.64,0.38,0.20,C,india,3800
