@@ -16,7 +16,7 @@ import lithiumBatteryPackImg from "./assets/lithium_battery_pack.png";
 import solarPanelImg from "./assets/solar_panel.png";
 import tshirtImg from "./assets/tshirt.png";
 
-const API_BASE = import.meta.env.VITE_API_URL;
+const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 const PRODUCT_CARDS = [
   { key: "t_shirt", name: "T-Shirt", img: tshirtImg, blurb: "Apparel supply chain footprint." },
@@ -329,10 +329,11 @@ export default function App() {
             <div className="subtitle">Supply-chain footprint estimator + greener recommendation</div>
           </div>
         </div>
-        <div className="pill">
-          API: <span className="mono">{API_BASE}</span>
-        </div>
       </header>
+
+      <div className="disclaimerBanner">
+        Hackathon prototype for demonstration purposes. Results shown are illustrative.
+      </div>
 
       <main className="grid">
         <section className="card cardProducts">

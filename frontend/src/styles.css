@@ -90,6 +90,17 @@ body {
   font-size: 12px;
 }
 
+.disclaimerBanner {
+  margin-bottom: 18px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: linear-gradient(180deg, rgba(255,255,255,0.07), rgba(255,255,255,0.04));
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 .grid {

@@ -1,5 +1,11 @@
 # 🌍 CarbonSight
 
+## Prototype Disclaimer
+
+- CarbonSight is a hackathon prototype created for demonstration purposes.
+- The data and outputs in this repository are illustrative and should not be interpreted as audited real-world analysis or production-ready decision support.
+
+
 ## 🚀 AI-Powered Supply Chain Carbon Intelligence Platform
 
 ---
@@ -150,28 +156,55 @@ Step 7: Frontend renders:
 
 ## 6. Setup & Run
 
+### Safe Local Setup
+
+This project is safest to run in an isolated local environment:
+
+- Use a Python virtual environment for the backend
+- Keep frontend dependencies inside this repo with `npm install`
+- Do not install backend packages globally
+
 ### Backend
 
-cd backend  
-pip install -r requirements.txt  
-uvicorn main:app --reload  
+From the repo root:
+
+```powershell
+cd backend
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload --host localhost --port 8000
+```
 
 ### Frontend
 
-cd frontend  
-npm install  
+Open a second terminal:
 
-Set environment variable:
+```powershell
+cd frontend
+npm install
+```
 
-VITE_API_URL=<your_backend_url>
+Optional `.env` file in `frontend/`:
+
+```env
+VITE_API_URL=http://localhost:8000
+```
+
+If no `.env` file is set, the frontend defaults to `http://localhost:8000`.
 
 Run development server:
 
-npm run dev  
+```powershell
+npm run dev
+```
 
-### Production Build
+### Optional Frontend Build
 
-npm run build  
+```powershell
+cd frontend
+npm run build
+```
 
 ---
 
@@ -205,6 +238,8 @@ POST /analyze/{category}
 
 ## 9. Notes & Assumptions
 
+- CarbonSight is a hackathon prototype created for demonstration purposes.
+- The data and outputs in this repository are illustrative and should not be interpreted as audited real-world analysis or production-ready decision support.
 - Emission breakdown is a scaled explainability proxy.
 - Includes manufacturing, packaging, and transport.
 - Excludes use-phase and end-of-life emissions.
@@ -233,3 +268,5 @@ Developers: Hetav Vyas & Naman Kumar
 
 CarbonSight  
 From Carbon Measurement → To Climate Decision Intelligence.
+
+
