@@ -161,8 +161,8 @@ Step 7: Frontend renders:
 This project is safest to run in an isolated local environment:
 
 - Use a Python virtual environment for the backend
-- Keep frontend dependencies inside this repo with `npm install`
-- Do not install backend packages globally
+- Keep frontend dependencies local to this repository with `npm install`
+- Avoid installing backend dependencies globally
 
 ### Backend
 
@@ -259,7 +259,15 @@ POST /analyze/{category}
 
 ---
 
-## 11. Credits
+## 11. Team Contributions
+
+- Hetav Vyas: contributed to the ML workflow and frontend development
+- Naman Kumar: contributed to backend and frontend development
+- Frontend and backend work included shared collaboration across the project
+
+---
+
+## 12. Credits
 
 Project Name: CarbonSight  
 Developers: Hetav Vyas & Naman Kumar  
