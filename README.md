@@ -156,55 +156,21 @@ Step 7: Frontend renders:
 
 ## 6. Setup & Run
 
-### Safe Local Setup
-
-This project is safest to run in an isolated local environment:
-
-- Use a Python virtual environment for the backend
-- Keep frontend dependencies local to this repository with `npm install`
-- Avoid installing backend dependencies globally
-
 ### Backend
 
-From the repo root:
-
-```powershell
-cd backend
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload --host localhost --port 8000
-```
+Set up the backend from the `backend` folder by creating a Python virtual environment, installing the dependencies from `requirements.txt`, and starting the FastAPI server locally on `http://localhost:8000`.
 
 ### Frontend
 
-Open a second terminal:
+Set up the frontend from the `frontend` folder by installing the dependencies and starting the development server locally on `http://localhost:5173`.
 
-```powershell
-cd frontend
-npm install
-```
+### Environment Variable
 
-Optional `.env` file in `frontend/`:
+If needed, create a `.env` file inside `frontend/` and set:
 
-```env
-VITE_API_URL=http://localhost:8000
-```
+`VITE_API_URL=http://localhost:8000`
 
 If no `.env` file is set, the frontend defaults to `http://localhost:8000`.
-
-Run development server:
-
-```powershell
-npm run dev
-```
-
-### Optional Frontend Build
-
-```powershell
-cd frontend
-npm run build
-```
 
 ---
 
