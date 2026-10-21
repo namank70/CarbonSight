@@ -227,8 +227,8 @@ POST /analyze/{category}
 
 ## 11. Team Contributions
 
-- Hetav Vyas: contributed to the ML workflow and frontend development
-- Naman Kumar: contributed to backend and frontend development
+- Hetav Vyas: contributed to the ML workflow, backend and frontend development
+- Naman Kumar: contributed to ML workflow, backend and frontend development
 - Frontend and backend work included shared collaboration across the project
 
 ---
