@@ -1,11 +1,5 @@
 # 🌍 CarbonSight
 
-## Prototype Disclaimer
-
-- CarbonSight is a hackathon prototype created for demonstration purposes.
-- The data and outputs in this repository are illustrative and should not be interpreted as audited real-world analysis or production-ready decision support.
-
-
 ## 🚀 AI-Powered Supply Chain Carbon Intelligence Platform
 
 ---
